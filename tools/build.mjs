@@ -259,6 +259,42 @@ function faqIndex(faqs) {
   });
 }
 
+// Structured data. Two blocks on the live site are broken JSON (an unescaped quote,
+// a line break inside a string), so Google ignores them. Repair them in place.
+function repairJsonLd(text) {
+  let t = text.replace(/"((?:[^"\\]|\\.)*)"/g, (m) => m.replace(/[\r\n\t]+/g, ' '));
+  for (let i = 0; i < 50; i++) {
+    try { JSON.parse(t); return t; } catch (e) {
+      const pos = Number((e.message.match(/position (\d+)/) || [])[1]);
+      if (!pos) return text;
+      const q = t.lastIndexOf('"', pos - 1);
+      if (q <= 0) return text;
+      t = t.slice(0, q) + '\\"' + t.slice(q + 1);
+    }
+  }
+  return text;
+}
+
+// The firm's own details, taken from the site's footer and office pages.
+const FIRM_SCHEMA = {
+  '@context': 'https://schema.org',
+  '@type': 'LegalService',
+  '@id': 'https://thedrakelawfirm.com/#legalservice',
+  name: 'The Drake Law Firm, P.C.',
+  url: 'https://thedrakelawfirm.com/',
+  logo: 'https://thedrakelawfirm.com/wp-content/uploads/2021/10/logo_drake_law.png',
+  image: 'https://thedrakelawfirm.com/wp-content/uploads/2021/10/logo_drake_law.png',
+  telephone: '+1-303-261-8111',
+  areaServed: { '@type': 'State', name: 'Colorado' },
+  knowsAbout: ['Divorce', 'Child custody', 'Child support', 'Alimony', 'Property division', 'Paternity', 'Adoption', 'Marital agreements'],
+  openingHoursSpecification: [{ '@type': 'OpeningHoursSpecification', dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'], opens: '08:00', closes: '17:00' }],
+  sameAs: ['https://www.facebook.com/The-Drake-Law-Firm-PC-220726871300038', 'https://www.instagram.com/thedrakelawfirm/', 'https://www.youtube.com/channel/UChdpHnVHLZer15ioD6jqs9Q', 'https://twitter.com/MarieDrakeLaw', 'https://tiktok.com/@drakelawgoldenco'],
+  department: [
+    { '@type': 'LegalService', name: 'The Drake Law Firm, P.C. Lakewood', url: 'https://thedrakelawfirm.com/colorado/locations/lakewood/', telephone: '+1-303-261-8111', address: { '@type': 'PostalAddress', streetAddress: '12600 W Colfax Ave, Suite B-400', addressLocality: 'Lakewood', addressRegion: 'CO', postalCode: '80215', addressCountry: 'US' } },
+    { '@type': 'LegalService', name: 'The Drake Law Firm, P.C. Golden', url: 'https://thedrakelawfirm.com/colorado/locations/golden/', telephone: '+1-303-261-8111', address: { '@type': 'PostalAddress', streetAddress: '2117 Ford St', addressLocality: 'Golden', addressRegion: 'CO', postalCode: '80401', addressCountry: 'US' } },
+  ],
+};
+
 // ---------- page assembly ----------
 
 function render(item, ctx, listing) {
@@ -277,6 +313,17 @@ function render(item, ctx, listing) {
   if (listing) fillListing($, listing.base, listing.n, listing.total, listing.posts);
   if (!sample) addBgSliders($, item);
   const cssUrls = $('link[rel=stylesheet]').map((_, el) => $(el).attr('href')).get();
+  $('script[type="application/ld+json"]').each((_, el) => { $(el).text(repairJsonLd($(el).html())); });
+  // FAQ sections without FAQ markup get it, built from the questions and answers on the page.
+  if (!/"FAQPage"/.test($.html()) && $('.elementor-accordion-item').length) {
+    const qa = $('.elementor-accordion-item').map((_, it) => {
+      const q = $(it).find('.elementor-accordion-title').first().text().trim();
+      const a = $(it).find('.elementor-tab-content').first().text().replace(/\s+/g, ' ').trim();
+      return q && a ? { '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a } } : null;
+    }).get().filter(Boolean);
+    if (qa.length) $('head').append(`<script type="application/ld+json">${JSON.stringify({ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: qa }).replace(/</g, '\\u003c')}</script>`);
+  }
+  if (item.path === '/') $('head').append(`<script type="application/ld+json">${JSON.stringify(FIRM_SCHEMA)}</script>`);
   const head = headFrom($, item);
   if (listing) {
     const suffix = ` - Page ${listing.n} of ${listing.total}`;
