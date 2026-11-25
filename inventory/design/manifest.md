@@ -7942,6 +7942,19 @@ Requests use a Firefox 133 User-Agent. A Chrome User-Agent was closed by the ser
   - video-faqs/addressing-missing-child-support-payments.html
   - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
 
+### css/siteground-optimizer-combined-css-9a392890468f8bac7c9303b31cf4c5d9.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-9a392890468f8bac7c9303b31cf4c5d9.css
+- Size: 1983666 bytes
+- Snapshots:
+  - video-faqs.html
+  - video-faqs/page/2.html
+  - video-faqs/page/3.html
+  - video-faqs/page/4.html
+  - video-faqs/page/5.html
+  - video-faqs/page/6.html
+  - video-faqs/page/7.html
+
 ## Google Fonts listed only
 
 These URLs were not downloaded.
