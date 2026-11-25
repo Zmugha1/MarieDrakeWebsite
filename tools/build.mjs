@@ -244,7 +244,19 @@ function sliderCss(counts) {
 // Video FAQ grid. The old grid plugin filtered and loaded more cards over AJAX.
 // The same data now ships inside the page and site.js does the filtering.
 function faqIndex(faqs) {
-  const thumb = (u) => (u ? localUrl(u).replace(/(\.[a-z]+)$/i, '-768x432$1') : '');
+  // The grid used the 768 px wide size. Use it when that file exists, else the
+  // nearest 768 px size WordPress made, else the full image.
+  const thumb = (u) => {
+    if (!u) return '';
+    const full = localUrl(u);
+    const want = full.replace(/(\.[a-z]+)$/i, '-768x432$1');
+    if (existsSync(join(SITE, want))) return want;
+    const dir = dirname(full);
+    const base = full.slice(dir.length + 1).replace(/(-scaled)?\.[a-z]+$/i, '');
+    const ext = full.match(/\.[a-z]+$/i)[0];
+    const alt = existsSync(join(SITE, dir)) ? readdirSync(join(SITE, dir)).find((f) => f.startsWith(base + '-768x') && f.endsWith(ext)) : null;
+    return alt ? `${dir}/${alt}` : full;
+  };
   return faqs.map((f) => {
     const words = cheerio.load(f.content?.rendered || '').text().replace(/\s+/g, ' ').trim().split(' ');
     return {
