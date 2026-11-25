@@ -210,6 +210,36 @@ function fillListing($, base, cur, total, posts) {
   w.find('.uael-grid-pagination').html(' ' + pageLinks(ORIGIN + base, cur, total)).attr({ 'data-total': total, 'data-next-page': cur + 1 });
 }
 
+// Background slideshows. The old addon plugin ran a script that faded between photos
+// behind a section. Same photos, timing and overlay, done with CSS only.
+const SLIDE_SECONDS = 5;
+const FADE_SECONDS = 1;
+function addBgSliders($, item) {
+  const src = item.content?.rendered || '';
+  const re = /elementSelector\s*=\s*"\.elementor-element-([0-9a-f]+)[^"]*"[\s\S]*?\.vegas\(\{([\s\S]*?)\}\);/g;
+  let m;
+  while ((m = re.exec(src))) {
+    const id = m[1];
+    const slides = [...m[2].matchAll(/"src":"([^"]+)"/g)].map((x) => localUrl(x[1].replace(/\\\//g, '/')));
+    const el = $(`.elementor-element-${id}`).first();
+    if (!el.length || !slides.length) continue;
+    const n = slides.length;
+    const total = n * SLIDE_SECONDS;
+    const items = slides.map((u, k) => `<div class="vegas-slide drake-bs-slide" style="animation-duration:${total}s;animation-delay:${k * SLIDE_SECONDS - FADE_SECONDS}s${k ? '' : ';opacity:1'}"><div class="vegas-slide-inner" style="background-image:url('${u}')"></div></div>`).join('');
+    el.prepend(`<div class="eae-section-bs"><div class="eae-section-bs-inner drake-bs drake-bs-${n}">${items}<div class="vegas-overlay"></div><div class="vegas-timer"><div class="vegas-timer-progress" style="animation-duration:${SLIDE_SECONDS}s"></div></div></div></div>`);
+  }
+}
+
+function sliderCss(counts) {
+  const fade = (n) => (FADE_SECONDS / (n * SLIDE_SECONDS)) * 100;
+  return [...counts].map((n) => {
+    const a = fade(n).toFixed(2);
+    const b = (100 / n).toFixed(2);
+    const c = (100 / n + fade(n)).toFixed(2);
+    return `@keyframes drake-bs-${n}{0%{opacity:0}${a}%{opacity:1}${b}%{opacity:1}${c}%{opacity:0}100%{opacity:0}}.drake-bs-${n} .drake-bs-slide{animation-name:drake-bs-${n}}`;
+  }).join('');
+}
+
 // ---------- page assembly ----------
 
 function render(item, ctx, listing) {
@@ -226,6 +256,7 @@ function render(item, ctx, listing) {
     fillNav($, item, item.type === 'post' ? ctx.posts : ctx.faqs);
   }
   if (listing) fillListing($, listing.base, listing.n, listing.total, listing.posts);
+  if (!sample) addBgSliders($, item);
   const cssUrls = $('link[rel=stylesheet]').map((_, el) => $(el).attr('href')).get();
   const head = headFrom($, item);
   if (listing) {
@@ -300,7 +331,9 @@ for (const item of todo) {
 
 const { sharedCss, pageCss, report } = await buildCss(ROOT, pages);
 mkdirSync(join(SITE, 'assets'), { recursive: true });
-writeFileSync(join(SITE, 'assets', 'site.css'), sharedCss + read(join(ROOT, 'tools', 'assets', 'extra.css')));
+const sliderCounts = new Set(pages.flatMap((p) => [...p.html.matchAll(/drake-bs-(\d+)"/g)].map((x) => Number(x[1]))));
+writeFileSync(join(SITE, 'assets', 'site.css'), sharedCss + read(join(ROOT, 'tools', 'assets', 'extra.css')) + sliderCss(sliderCounts));
+cpSync(join(ROOT, 'tools', 'assets', 'vegas-overlay-01.png'), join(SITE, 'assets', 'vegas-overlay-01.png'));
 cpSync(join(ROOT, 'tools', 'assets', 'site.js'), join(SITE, 'assets', 'site.js'));
 const partial = (n) => read(join(ROOT, 'tools', 'partials', n));
 
