@@ -46,7 +46,7 @@ const localUrl = (u) => (u || '').replace(/^https?:\/\/(www\.)?thedrakelawfirm\.
 
 // ---------- cleaning ----------
 
-const DROP_ATTRS = /^(data-(eae|id$|element_type|e-type|widget_type|elementor-(post-type|type|id)|form_instance|recptcha_key|form_id|name|type|swiper|ti-|wpel|lazy)|aria-invalid$)/;
+const DROP_ATTRS = /^(data-(eae|id$|e-type|elementor-(post-type|type|id)|form_instance|recptcha_key|form_id|name|type|swiper|ti-|wpel|lazy)|aria-invalid$)/;
 
 function cleanDoc($, styles) {
   $('script').each((_, el) => {
@@ -161,29 +161,59 @@ function fillNav($, item, siblings) {
   set('next', next);
 }
 
-// "Recent Blog Post" cards show the three newest posts.
-function fillRecent($, posts) {
-  $('.elementor-widget-uael-posts .uael-post-wrapper, .elementor-widget-uael-posts .uael-post__outer-wrap').each(() => {});
-  $('.elementor-widget-uael-posts').each((_, w) => {
-    const cards = $(w).find('.uael-post-wrapper');
-    cards.each((i, c) => {
-      const p = posts[i];
-      if (!p) return $(c).remove();
-      const card = $(c);
-      card.find('a').attr('href', p.path);
-      card.find('.uael-post__title a, .uael-post__title').first().text(cheerio.load(p.title).text());
-      const d = new Date(p.date);
-      card.find('.uael-post__date').contents().filter((_, n) => n.type === 'text' && n.data.trim()).first().replaceWith(' ' + d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }));
-      const img = card.find('img').first();
-      if (img.length && p.featured_image_url) img.attr({ src: localUrl(p.featured_image_url) }).removeAttr('srcset');
-    });
-  });
+// Blog and News list pages: WordPress served /blog/page/2/ and so on from the same
+// page. The saved page 1 is the template; later pages get their own cards and links.
+const LISTINGS = { '/blog/': 'blog', '/news/': 'news' };
+
+function excerptText(item) {
+  const t = cheerio.load(item.excerpt?.rendered || '').text().replace(/\[(&hellip;|…)\]|\s+/g, ' ').trim();
+  const words = t.split(' ').slice(0, 25).join(' ');
+  return ' ' + words + ' ...';
+}
+
+function pageLinks(base, cur, total) {
+  const url = (n) => (n === 1 ? base : `${base}page/${n}/`);
+  const out = [];
+  if (cur > 1) out.push(`<a class="prev page-numbers" href="${url(cur - 1)}">&laquo; Previous</a>`);
+  let dots = false;
+  for (let n = 1; n <= total; n++) {
+    if (n === cur) { out.push(`<span aria-current="page" class="page-numbers current">${n}</span>`); dots = false; }
+    else if (n <= 1 || n > total - 1 || Math.abs(n - cur) <= 2) { out.push(`<a class="page-numbers" href="${url(n)}">${n}</a>`); dots = false; }
+    else if (!dots) { out.push('<span class="page-numbers dots">&hellip;</span>'); dots = true; }
+  }
+  if (cur < total) out.push(`<a class="next page-numbers" href="${url(cur + 1)}">Next &raquo;</a>`);
+  return out.join(' ');
+}
+
+function fillListing($, base, cur, total, posts) {
+  const w = $('.elementor-widget-uael-posts').filter((_, el) => $(el).find('.uael-grid-pagination').length).first();
+  const cards = w.find('.uael-post-wrapper');
+  const withImg = cards.filter((_, c) => $(c).find('.uael-post__thumbnail').length).first();
+  const tpl = $.html(withImg.length ? withImg : cards.first());
+  const inner = cards.first().parent();
+  cards.remove();
+  for (const p of posts) {
+    const c = $(tpl);
+    const title = cheerio.load(p.title).text();
+    c.find('a').attr('href', ORIGIN + p.path);
+    c.find('.uael-post__thumbnail a').attr('title', title);
+    c.find('.uael-post__title a').text(' ' + title + ' ');
+    c.find('.uael-post__excerpt').text(excerptText(p));
+    const d = new Date(p.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' });
+    c.find('.uael-post__date').html(`<i aria-hidden="true" class="fa fa-calendar"></i> ${d} `);
+    c.find('.uael-post__read-more').attr('aria-labelledby', 'uael-post-' + p.id);
+    c.find('.uael-post__read-more .elementor-button-text').attr('id', 'uael-post-' + p.id);
+    if (p.featured_image_url) c.find('.uael-post__thumbnail img').attr({ src: p.featured_image_url, width: null, height: null, srcset: null, sizes: null, fetchpriority: null });
+    else c.find('.uael-post__thumbnail').remove();
+    inner.append(c);
+  }
+  w.find('.uael-grid-pagination').html(' ' + pageLinks(ORIGIN + base, cur, total)).attr({ 'data-total': total, 'data-next-page': cur + 1 });
 }
 
 // ---------- page assembly ----------
 
-function render(item, ctx) {
-  let file = snapshotFile(item.path);
+function render(item, ctx, listing) {
+  let file = snapshotFile(listing ? listing.base : item.path);
   let sample = null;
   if (item.type !== 'page') {
     file = join(SNAP, item.type === 'post' ? POST_SAMPLE : FAQ_SAMPLE);
@@ -195,9 +225,17 @@ function render(item, ctx) {
     fillSingle($, item, sample);
     fillNav($, item, item.type === 'post' ? ctx.posts : ctx.faqs);
   }
-  fillRecent($, ctx.posts);
+  if (listing) fillListing($, listing.base, listing.n, listing.total, listing.posts);
   const cssUrls = $('link[rel=stylesheet]').map((_, el) => $(el).attr('href')).get();
   const head = headFrom($, item);
+  if (listing) {
+    const suffix = ` - Page ${listing.n} of ${listing.total}`;
+    head.title = head.title.replace(/^(.*?)( [-|] [^-|]*)?$/, (all, a, b) => a + suffix + (b || ''));
+    head.meta = head.meta
+      .replace(/(<link rel="canonical" href=")[^"]*/, `$1${ORIGIN}${item.path}`)
+      .replace(/(<meta property="og:url" content=")[^"]*/, `$1${ORIGIN}${item.path}`)
+      .replace(/(<meta property="og:title" content=")([^"]*)/, (all, a, b) => a + b + suffix);
+  }
   const styles = [];
   $('head style').each((_, el) => styles.push($(el).html()));
   const bodyClass = ($('body').attr('class') || '').split(/\s+/).filter((c) => /^(ast-|elementor-|page|single|wp-child|wp-theme|home|blog|post|archive|ehf)/.test(c)).join(' ');
@@ -247,6 +285,17 @@ for (const item of todo) {
   const out = render(item, ctx);
   if (out.error) { errors.push(out.error); continue; }
   pages.push({ item, ...out });
+  const cat = LISTINGS[item.path];
+  if (!cat) continue;
+  const $p = cheerio.load(read(snapshotFile(item.path)));
+  const per = $p('.elementor-widget-uael-posts').filter((_, el) => $p(el).find('.uael-grid-pagination').length).first().find('.uael-post-wrapper').length;
+  const list = ctx.posts.filter((p) => (p.categories || []).some((c) => c.slug === cat));
+  const total = Math.ceil(list.length / per);
+  for (let n = 2; n <= total; n++) {
+    const virtual = { ...item, path: `${item.path}page/${n}/` };
+    const o = render(virtual, ctx, { base: item.path, n, total, posts: list.slice((n - 1) * per, n * per) });
+    pages.push({ item: virtual, ...o });
+  }
 }
 
 const { sharedCss, pageCss, report } = await buildCss(ROOT, pages);

@@ -112,12 +112,12 @@ export async function buildCss(root, pages) {
 
   const htmls = pages.map((p) => ({ raw: p.html, extension: 'html' }));
   const purger = new PurgeCSS();
-  const [sharedPurged] = await purger.purge({ content: htmls, css: [{ raw: join2(shared) }], safelist: { standard: SAFE }, fontFace: false, keyframes: true });
+  const [sharedPurged] = await purger.purge({ content: htmls, css: [{ raw: join2(shared) }], safelist: { standard: SAFE, greedy: [/data-widget_type/, /data-element_type/] }, fontFace: false, keyframes: true });
   const pageCss = new Map();
   for (const p of pages) {
     const rules = pageRules.get(p.item.path);
     if (!rules) continue;
-    const [r] = await new PurgeCSS().purge({ content: [{ raw: p.html, extension: 'html' }], css: [{ raw: join2(rules) }], safelist: { standard: SAFE } });
+    const [r] = await new PurgeCSS().purge({ content: [{ raw: p.html, extension: 'html' }], css: [{ raw: join2(rules) }], safelist: { standard: SAFE, greedy: [/data-widget_type/, /data-element_type/] } });
     const min = new CleanCSS({ level: 1 }).minify(r.css).styles;
     if (min) pageCss.set(p.item.path, min);
   }
