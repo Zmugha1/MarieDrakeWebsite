@@ -2,9 +2,9 @@
 
 Paths are unique `/wp-content/uploads/` references from `src`, `srcset`, `href`, `poster`, inline `style` `url()`, `<style>` blocks, meta tags and structured data, and `site/assets/site.css`.
 
-- Paths found: 468
-- Files copied: 468
-- Total size copied: 161.00 MB (168819317 bytes)
+- Paths found: 470
+- Files copied: 470
+- Total size copied: 162.62 MB (170524436 bytes)
 
 ## 20 largest files
 
