@@ -2,9 +2,9 @@
 
 Paths are unique `/wp-content/uploads/` references from `src`, `srcset`, `href`, `poster`, inline `style` `url()`, `<style>` blocks, meta tags and structured data, and `site/assets/site.css`.
 
-- Paths found: 470
-- Files copied: 470
-- Total size copied: 162.62 MB (170524436 bytes)
+- Paths found: 525
+- Files copied: 505
+- Total size copied: 165.58 MB (173624444 bytes)
 
 ## 20 largest files
 
@@ -31,4 +31,23 @@ Paths are unique `/wp-content/uploads/` references from `src`, `srcset`, `href`,
 
 ## Paths not found in the backup
 
-None.
+- /wp-content/uploads/2022/06/eric-ward-ISg37AI2A-s-unsplash-scaled-768x432.jpg
+- /wp-content/uploads/2022/10/juliane-liebermann-G8gzkaqTqOA-unsplash-scaled-768x432.jpg
+- /wp-content/uploads/2022/10/towfiqu-barbhuiya-M8z2SwSwpbg-unsplash-scaled-768x432.jpg
+- /wp-content/uploads/2023/01/Important-Documents-Are-Needed-To-File-768x432.png
+- /wp-content/uploads/2023/01/how-does-illness-affect-parenting-time-768x432.png
+- /wp-content/uploads/2023/02/Child-Support-Modifiable-768x432.png
+- /wp-content/uploads/2023/02/FAQ-Divorce111-768x432.png
+- /wp-content/uploads/2023/02/do-i-need-to-hire-law-768x432.png
+- /wp-content/uploads/2023/03/Initial-Consultation-768x432.png
+- /wp-content/uploads/2023/03/Should-I-Be-Using-A-Parenting-App-768x432.png
+- /wp-content/uploads/2023/03/Spring-break-768x432.png
+- /wp-content/uploads/2023/03/select-correctattorney-3-768x432.png
+- /wp-content/uploads/2023/04/Considerations-In-High-Asset-Divorce-768x432.png
+- /wp-content/uploads/2023/05/Travel-Outside-The-Country-768x432.png
+- /wp-content/uploads/2023/08/Alimony-Rights-768x432.png
+- /wp-content/uploads/2023/08/How-to-Transition-Your-Kids-to-the-School-Year-if-Youre-in-the-Middle-of-a-Divorce-768x432.png
+- /wp-content/uploads/2023/09/Addressing-Missing-Child-Support-Payments-768x432.png
+- /wp-content/uploads/2023/09/Dealing-with-Conflict-in-a-Blended-Family-768x432.png
+- /wp-content/uploads/2023/09/Raising-Grandchildren-In-Colorado-768x432.png
+- /wp-content/uploads/2023/11/timothy-eberly-yuiJO6bvHi4-unsplash-scaled-768x432.jpg
