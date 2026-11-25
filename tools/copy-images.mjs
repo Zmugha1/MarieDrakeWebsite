@@ -78,6 +78,9 @@ function collectFromHtml(text, paths) {
   const srcsetRe = /\bsrcset\s*=\s*(?:"([^"]*)"|'([^']*)')/gi;
   while ((match = srcsetRe.exec(text))) addSrcset(paths, match[1] ?? match[2] ?? '');
   collectUrls(text, paths);
+  // Images named in meta tags and structured data (og:image, schema thumbnailUrl)
+  const anyRe = /(?:https?:)?(?:\\?\/\\?\/(?:www\.)?thedrakelawfirm\.com)?\\?\/wp-content\\?\/uploads\\?\/[^\s"'()<>,]+/gi;
+  for (const m of decodeHtml(text).match(anyRe) || []) addUrl(paths, m.replace(/\\\//g, '/'));
 }
 
 function collectUrls(text, paths) {
@@ -96,7 +99,7 @@ function writeReport(found, copied, missing) {
   const lines = [];
   lines.push('# Image copy');
   lines.push('');
-  lines.push('Paths are unique `/wp-content/uploads/` references from `src`, `srcset`, `href`, `poster`, inline `style` `url()`, `<style>` blocks, and `site/assets/site.css`.');
+  lines.push('Paths are unique `/wp-content/uploads/` references from `src`, `srcset`, `href`, `poster`, inline `style` `url()`, `<style>` blocks, meta tags and structured data, and `site/assets/site.css`.');
   lines.push('');
   lines.push(`- Paths found: ${found.length}`);
   lines.push(`- Files copied: ${copied.length}`);
