@@ -8,6 +8,7 @@ import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import * as cheerio from 'cheerio';
 import { buildCss } from './lib/css.mjs';
+import { writeRedirects, writeSitemaps, writeRobots, writeHeaders, writeLlms } from './lib/seo.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const SNAP = join(ROOT, 'inventory', 'snapshots');
@@ -350,5 +351,14 @@ for (const p of pages) {
   writeFileSync(out, html);
 }
 
-console.log(`${PRODUCTION ? 'PRODUCTION' : 'STAGING'} build: ${pages.length} pages. Shared CSS ${(sharedCss.length / 1024).toFixed(1)} KB. ${report}`);
+let seo = '';
+if (!ONLY.length) {
+  const red = writeRedirects(ROOT, SITE);
+  const maps = writeSitemaps(SITE, pages, red.sources);
+  writeRobots(SITE, PRODUCTION);
+  writeHeaders(SITE, PRODUCTION);
+  writeLlms(SITE, pages);
+  seo = ` Redirects ${red.count}. Sitemaps: ${maps.map((m) => `${m.name} ${m.count}`).join(', ')}.`;
+}
+console.log(`${PRODUCTION ? 'PRODUCTION' : 'STAGING'} build: ${pages.length} pages. Shared CSS ${(sharedCss.length / 1024).toFixed(1)} KB. ${report}${seo}`);
 if (errors.length) console.log('Errors:\n' + errors.join('\n'));
