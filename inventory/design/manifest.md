@@ -1,0 +1,7986 @@
+# Design capture
+
+Read-only download from https://thedrakelawfirm.com on 2026-11-25T03:12:00.190Z. The live WordPress site was not changed.
+
+Requests use a Firefox 133 User-Agent. A Chrome User-Agent was closed by the server before any HTTP status was returned.
+
+## Files saved
+
+### brand/Group-2316.png
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/2021/12/Group-2316.png
+- Size: 706 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### brand/logo_drake_law-130x112.png
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/2021/10/logo_drake_law-130x112.png
+- Size: 6945 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### css/nitro9-co-theme-css.min-55ce994e.css
+
+- Source: https://thedrakelawfirm.com/wp-content/themes/nitro9-child/nitro9-co-theme-css.min.css?ver=1.0.0
+- Size: 0 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### css/siteground-optimizer-combined-css-01c8946c00f784f595bba69ea4093084.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-01c8946c00f784f595bba69ea4093084.css
+- Size: 1776757 bytes
+- Snapshots:
+  - colorado/paternity.html
+
+### css/siteground-optimizer-combined-css-02091860b0c47cef5d14466cf61854b7.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-02091860b0c47cef5d14466cf61854b7.css
+- Size: 1757739 bytes
+- Snapshots:
+  - colorado/areas/denver-county.html
+
+### css/siteground-optimizer-combined-css-05a948ff7c2651238dd1d8d36a041b4f.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-05a948ff7c2651238dd1d8d36a041b4f.css
+- Size: 1764668 bytes
+- Snapshots:
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+
+### css/siteground-optimizer-combined-css-0a482de1fa87f8388037107843af3187.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-0a482de1fa87f8388037107843af3187.css
+- Size: 1617695 bytes
+- Snapshots:
+  - thank-you.html
+
+### css/siteground-optimizer-combined-css-0f2d23f9483f7a727ac5abf31424996c.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-0f2d23f9483f7a727ac5abf31424996c.css
+- Size: 1779333 bytes
+- Snapshots:
+  - colorado/child-custody/modification.html
+
+### css/siteground-optimizer-combined-css-14d0583bb9c81dc64ac792d8f2005867.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-14d0583bb9c81dc64ac792d8f2005867.css
+- Size: 1777848 bytes
+- Snapshots:
+  - colorado/divorce.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - family-law/uncontested-divorce-lawyer.html
+
+### css/siteground-optimizer-combined-css-15dd2dadec7604583ea69605dc264461.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-15dd2dadec7604583ea69605dc264461.css
+- Size: 1680278 bytes
+- Snapshots:
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+
+### css/siteground-optimizer-combined-css-166327ea2c4413e5cd57a315d4e1a5c7.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-166327ea2c4413e5cd57a315d4e1a5c7.css
+- Size: 1620271 bytes
+- Snapshots:
+  - 3-frequently-asked-questions-regarding-divorce.html
+
+### css/siteground-optimizer-combined-css-1981636f6ec6b08b0cf360093ecb9568.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-1981636f6ec6b08b0cf360093ecb9568.css
+- Size: 1675875 bytes
+- Snapshots:
+  - arvada-co-divorce-attorneys.html
+
+### css/siteground-optimizer-combined-css-1ae339b0a6bce56fafcffc903d04fe24.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-1ae339b0a6bce56fafcffc903d04fe24.css
+- Size: 1764745 bytes
+- Snapshots:
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+
+### css/siteground-optimizer-combined-css-1b7bd62f10b2920355327743ac824eaf.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-1b7bd62f10b2920355327743ac824eaf.css
+- Size: 1683032 bytes
+- Snapshots:
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+
+### css/siteground-optimizer-combined-css-1e4bedff10117c121b231fc2f95cda56.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-1e4bedff10117c121b231fc2f95cda56.css
+- Size: 1666695 bytes
+- Snapshots:
+  - all-forms.html
+
+### css/siteground-optimizer-combined-css-1ebc8ff166d64bdcbf2b348f2d7d0077.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-1ebc8ff166d64bdcbf2b348f2d7d0077.css
+- Size: 1773846 bytes
+- Snapshots:
+  - real-estate-law.html
+
+### css/siteground-optimizer-combined-css-20486706172060dd2872497237fd89e0.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-20486706172060dd2872497237fd89e0.css
+- Size: 1757739 bytes
+- Snapshots:
+  - colorado/areas/clear-creek-county.html
+
+### css/siteground-optimizer-combined-css-20590e644feec92e66563c3183ffbb28.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-20590e644feec92e66563c3183ffbb28.css
+- Size: 1757739 bytes
+- Snapshots:
+  - colorado/areas/jefferson-county.html
+
+### css/siteground-optimizer-combined-css-21ef94e05acd0370559275cb749b8741.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-21ef94e05acd0370559275cb749b8741.css
+- Size: 1734931 bytes
+- Snapshots:
+  - news.html
+
+### css/siteground-optimizer-combined-css-22242d0cf836e05bc6b361d886335f2e.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-22242d0cf836e05bc6b361d886335f2e.css
+- Size: 1773521 bytes
+- Snapshots:
+  - business-transactions.html
+
+### css/siteground-optimizer-combined-css-22d8f745659c98eb7eb5c830c751586e.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-22d8f745659c98eb7eb5c830c751586e.css
+- Size: 1774234 bytes
+- Snapshots:
+  - colorado/guardianship.html
+
+### css/siteground-optimizer-combined-css-241808a4eb33c8e373f87fcfa3164a05.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-241808a4eb33c8e373f87fcfa3164a05.css
+- Size: 1773694 bytes
+- Snapshots:
+  - business-organizations.html
+
+### css/siteground-optimizer-combined-css-27451a7eb1ea3ae30a322c0c3790807e.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-27451a7eb1ea3ae30a322c0c3790807e.css
+- Size: 1617695 bytes
+- Snapshots:
+  - thank-you-zip.html
+
+### css/siteground-optimizer-combined-css-2ea1ce4f5522bda9016e22b9cbfaa75c.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-2ea1ce4f5522bda9016e22b9cbfaa75c.css
+- Size: 1676863 bytes
+- Snapshots:
+  - prenup-lawyer-lakewood-co.html
+
+### css/siteground-optimizer-combined-css-31f4bccd1e1be77df506fb05ba889b09.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-31f4bccd1e1be77df506fb05ba889b09.css
+- Size: 1679769 bytes
+- Snapshots:
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+
+### css/siteground-optimizer-combined-css-36f21fdea26c5eac3f2226a40375d16c.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-36f21fdea26c5eac3f2226a40375d16c.css
+- Size: 1678302 bytes
+- Snapshots:
+  - common-law-marriage-attorney-lakewood-colorado.html
+
+### css/siteground-optimizer-combined-css-3cad53ea4e173722491af9296988bea6.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-3cad53ea4e173722491af9296988bea6.css
+- Size: 1775927 bytes
+- Snapshots:
+  - family-law/parental-alienation-lawyer.html
+
+### css/siteground-optimizer-combined-css-3ffda2c6f465c100f57b280d7947104d.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-3ffda2c6f465c100f57b280d7947104d.css
+- Size: 1764745 bytes
+- Snapshots:
+  - moving-partner-avoid-common-law.html
+
+### css/siteground-optimizer-combined-css-41b00b969858de889938e0e172f4ea6c.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-41b00b969858de889938e0e172f4ea6c.css
+- Size: 1761568 bytes
+- Snapshots:
+  - colorado/locations.html
+  - our-location.html
+
+### css/siteground-optimizer-combined-css-41eaf6731aec8f0bc2f9a25fa2bf172b.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-41eaf6731aec8f0bc2f9a25fa2bf172b.css
+- Size: 1776269 bytes
+- Snapshots:
+  - colorado/divorce/common-law-marriage.html
+
+### css/siteground-optimizer-combined-css-42313baaee067942488923a9774a848d.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-42313baaee067942488923a9774a848d.css
+- Size: 1764745 bytes
+- Snapshots:
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+
+### css/siteground-optimizer-combined-css-4497ea985fc1d078d9de4f828bb07a1b.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-4497ea985fc1d078d9de4f828bb07a1b.css
+- Size: 1679022 bytes
+- Snapshots:
+  - arvada-co-child-custody-attorneys.html
+
+### css/siteground-optimizer-combined-css-518b42b4eaa74eb1a1f9392d9a9a82c5.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-518b42b4eaa74eb1a1f9392d9a9a82c5.css
+- Size: 1757739 bytes
+- Snapshots:
+  - colorado/areas.html
+
+### css/siteground-optimizer-combined-css-5512ffaa197b795859c1ac2569751d7f.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-5512ffaa197b795859c1ac2569751d7f.css
+- Size: 1778973 bytes
+- Snapshots:
+  - colorado/child-custody.html
+  - golden-child-custody.html
+
+### css/siteground-optimizer-combined-css-5648efba78072c05c553bdd45f00cc7d.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-5648efba78072c05c553bdd45f00cc7d.css
+- Size: 1680883 bytes
+- Snapshots:
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+
+### css/siteground-optimizer-combined-css-5682b0c0505391feff908dbdf95fe53c.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-5682b0c0505391feff908dbdf95fe53c.css
+- Size: 1764426 bytes
+- Snapshots:
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+
+### css/siteground-optimizer-combined-css-59eccafcf6b737f41c4fce773ff26689.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-59eccafcf6b737f41c4fce773ff26689.css
+- Size: 1625713 bytes
+- Snapshots:
+  - colorado/locations/lakewood.html
+  - family-law-attorney-lakewood-colorado.html
+
+### css/siteground-optimizer-combined-css-5b459a4ae3056eae4e7754557be4b68f.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-5b459a4ae3056eae4e7754557be4b68f.css
+- Size: 1764426 bytes
+- Snapshots:
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+
+### css/siteground-optimizer-combined-css-5c390bb91a03dbc6b3229e32ef098328.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-5c390bb91a03dbc6b3229e32ef098328.css
+- Size: 1617576 bytes
+- Snapshots:
+  - faqs.html
+
+### css/siteground-optimizer-combined-css-62f7be47382a899b77d1c8ccdb686899.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-62f7be47382a899b77d1c8ccdb686899.css
+- Size: 1772337 bytes
+- Snapshots:
+  - colorado/attorneys/madeline-legrange.html
+
+### css/siteground-optimizer-combined-css-64c2dfdc0400f7e2ddf9b94007bea0b1.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-64c2dfdc0400f7e2ddf9b94007bea0b1.css
+- Size: 1676769 bytes
+- Snapshots:
+  - alimony-attorney-lakewood-colorado.html
+
+### css/siteground-optimizer-combined-css-663ef9e129ee01329a2cf3be99ad9ed1.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-663ef9e129ee01329a2cf3be99ad9ed1.css
+- Size: 1904914 bytes
+- Snapshots:
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### css/siteground-optimizer-combined-css-6dad220b667980afb1e9e527c2720716.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-6dad220b667980afb1e9e527c2720716.css
+- Size: 1681076 bytes
+- Snapshots:
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+
+### css/siteground-optimizer-combined-css-718b8d5df522e736460a1df3d94376b0.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-718b8d5df522e736460a1df3d94376b0.css
+- Size: 1714847 bytes
+- Snapshots:
+  - colorado/attorneys.html
+
+### css/siteground-optimizer-combined-css-76549844ac28a5b21f99021541e551c1.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-76549844ac28a5b21f99021541e551c1.css
+- Size: 1676885 bytes
+- Snapshots:
+  - alimony-attorney-arvada-colorado.html
+
+### css/siteground-optimizer-combined-css-78955e3c157ec9c4753f37dcb312924f.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-78955e3c157ec9c4753f37dcb312924f.css
+- Size: 1765152 bytes
+- Snapshots:
+  - no-drama-divorce-2.html
+
+### css/siteground-optimizer-combined-css-820b9bcb92a1cd1eb5567950a3f5cfc4.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-820b9bcb92a1cd1eb5567950a3f5cfc4.css
+- Size: 1676416 bytes
+- Snapshots:
+  - child-custody-attorneys-lakewood-co.html
+
+### css/siteground-optimizer-combined-css-85c6ebaa285537002287451321d33021.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-85c6ebaa285537002287451321d33021.css
+- Size: 1778475 bytes
+- Snapshots:
+  - colorado/child-support/modification.html
+
+### css/siteground-optimizer-combined-css-88a1f44faeaa75d23d5f82f870ed4323.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-88a1f44faeaa75d23d5f82f870ed4323.css
+- Size: 1764745 bytes
+- Snapshots:
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+
+### css/siteground-optimizer-combined-css-93109c73abaddcf8d5c060ef166102cf.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-93109c73abaddcf8d5c060ef166102cf.css
+- Size: 1755743 bytes
+- Snapshots:
+  - contact-us.html
+
+### css/siteground-optimizer-combined-css-9332bce53e9ae71263dcf75de2dcc1e4.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-9332bce53e9ae71263dcf75de2dcc1e4.css
+- Size: 1773578 bytes
+- Snapshots:
+  - commercial-civil-litigation.html
+
+### css/siteground-optimizer-combined-css-94b336398e307e9213ad4588b7c18d98.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-94b336398e307e9213ad4588b7c18d98.css
+- Size: 1776847 bytes
+- Snapshots:
+  - colorado/property-division.html
+
+### css/siteground-optimizer-combined-css-9bcf40412d1201b4aa5a8a4b4647d025.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-9bcf40412d1201b4aa5a8a4b4647d025.css
+- Size: 1617776 bytes
+- Snapshots:
+  - privacy-policy.html
+
+### css/siteground-optimizer-combined-css-9ce57e68f8af4b4ab34fbc3204c5c3fb.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-9ce57e68f8af4b4ab34fbc3204c5c3fb.css
+- Size: 1776074 bytes
+- Snapshots:
+  - colorado/child-custody/grandparents-rights.html
+
+### css/siteground-optimizer-combined-css-9dcfbd1bb57c211cc283eedbf388d02c.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-9dcfbd1bb57c211cc283eedbf388d02c.css
+- Size: 1765957 bytes
+- Snapshots:
+  - family-law/uncontested-divorce-lakewood-co.html
+
+### css/siteground-optimizer-combined-css-a77098267c8f733cd9ce1ba0d5bb9efd.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-a77098267c8f733cd9ce1ba0d5bb9efd.css
+- Size: 1776983 bytes
+- Snapshots:
+  - colorado/alimony.html
+
+### css/siteground-optimizer-combined-css-a98507e5cf521ed3b413ecd6f4322dc5.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-a98507e5cf521ed3b413ecd6f4322dc5.css
+- Size: 1678478 bytes
+- Snapshots:
+  - child-custody-modifications-arvada-co.html
+
+### css/siteground-optimizer-combined-css-aa23dba637bae97bb5b17e2d34740afb.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-aa23dba637bae97bb5b17e2d34740afb.css
+- Size: 1683906 bytes
+- Snapshots:
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+
+### css/siteground-optimizer-combined-css-adf2c5670a2d9ce4558ef5a62fffa93d.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-adf2c5670a2d9ce4558ef5a62fffa93d.css
+- Size: 1772622 bytes
+- Snapshots:
+  - stephanie-berardini.html
+
+### css/siteground-optimizer-combined-css-aee10cbc43b7c3f2b152dca1ab5a26de.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-aee10cbc43b7c3f2b152dca1ab5a26de.css
+- Size: 1777998 bytes
+- Snapshots:
+  - colorado/divorce/contested-divorce.html
+
+### css/siteground-optimizer-combined-css-b54f29eba04b053b502104047b1a7518.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-b54f29eba04b053b502104047b1a7518.css
+- Size: 1735025 bytes
+- Snapshots:
+  - blog.html
+
+### css/siteground-optimizer-combined-css-b928c06a9617c902df77abdea8338231.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-b928c06a9617c902df77abdea8338231.css
+- Size: 1762672 bytes
+- Snapshots:
+  - colorado/attorneys/marie-drake.html
+
+### css/siteground-optimizer-combined-css-ba3f042d3b3864b70b056beb6caf0c7e.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-ba3f042d3b3864b70b056beb6caf0c7e.css
+- Size: 1625161 bytes
+- Snapshots:
+  - colorado/locations/golden.html
+  - our-location/golden.html
+
+### css/siteground-optimizer-combined-css-c0a7a1e48b11f4389d101a2e4bbd4684.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-c0a7a1e48b11f4389d101a2e4bbd4684.css
+- Size: 1772622 bytes
+- Snapshots:
+  - tatiana-quijano.html
+
+### css/siteground-optimizer-combined-css-c5c044d2fa89088fccd223c2c7cd5512.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-c5c044d2fa89088fccd223c2c7cd5512.css
+- Size: 1677077 bytes
+- Snapshots:
+  - prenup-lawyer-arvada-co.html
+
+### css/siteground-optimizer-combined-css-cb3cdc5df431222b5eda9d692b865110.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-cb3cdc5df431222b5eda9d692b865110.css
+- Size: 1654169 bytes
+- Snapshots:
+  - lakewood-paternity-lawyer.html
+
+### css/siteground-optimizer-combined-css-cc997f5783aebee64ec0dfbd0d21db33.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-cc997f5783aebee64ec0dfbd0d21db33.css
+- Size: 1775959 bytes
+- Snapshots:
+  - colorado/child-custody/fathers-rights.html
+
+### css/siteground-optimizer-combined-css-cf876bd03ed70f6fd4a1067a828e3051.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-cf876bd03ed70f6fd4a1067a828e3051.css
+- Size: 1777769 bytes
+- Snapshots:
+  - colorado/divorce/uncontested-divorce.html
+
+### css/siteground-optimizer-combined-css-d67d9744f7c6a6f7e37482f9b34b72d4.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-d67d9744f7c6a6f7e37482f9b34b72d4.css
+- Size: 1779943 bytes
+- Snapshots:
+  - family-law.html
+
+### css/siteground-optimizer-combined-css-d89e47c6bb7fb15392c53c77cebe67a5.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-d89e47c6bb7fb15392c53c77cebe67a5.css
+- Size: 1756898 bytes
+- Snapshots:
+  - lp.html
+
+### css/siteground-optimizer-combined-css-e187ad662273872dc3c5a52f4b89aba6.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-e187ad662273872dc3c5a52f4b89aba6.css
+- Size: 1767965 bytes
+- Snapshots:
+  - starting-your-own-business-in-colorado.html
+
+### css/siteground-optimizer-combined-css-e443559884542de35f0736f1f5ea61f2.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-e443559884542de35f0736f1f5ea61f2.css
+- Size: 1764745 bytes
+- Snapshots:
+  - do-you-need-a-postnuptial-agreement.html
+
+### css/siteground-optimizer-combined-css-e724b29ac815b7fd8126338de7669e0a.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-e724b29ac815b7fd8126338de7669e0a.css
+- Size: 1775528 bytes
+- Snapshots:
+  - practice-areas.html
+
+### css/siteground-optimizer-combined-css-e846854eaaf67b5b59baa17774aa44fb.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-e846854eaaf67b5b59baa17774aa44fb.css
+- Size: 1778504 bytes
+- Snapshots:
+  - colorado/adoption.html
+
+### css/siteground-optimizer-combined-css-e92670c5f386fd055b990f7e88dcd6c7.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-e92670c5f386fd055b990f7e88dcd6c7.css
+- Size: 1837049 bytes
+- Snapshots:
+  - colorado.html
+  - index.html
+
+### css/siteground-optimizer-combined-css-e97828c31ebfb88710be9523f58d3056.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-e97828c31ebfb88710be9523f58d3056.css
+- Size: 1775971 bytes
+- Snapshots:
+  - family-law/post-decree-modification.html
+
+### css/siteground-optimizer-combined-css-ed17d3870fc5a3c99bb18b0e2c363d87.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-ed17d3870fc5a3c99bb18b0e2c363d87.css
+- Size: 1680486 bytes
+- Snapshots:
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+
+### css/siteground-optimizer-combined-css-efece8c89bcf8cf7ff9da12c01c9eff0.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-efece8c89bcf8cf7ff9da12c01c9eff0.css
+- Size: 1777598 bytes
+- Snapshots:
+  - child-support-attorneys-lakewood.html
+  - colorado/child-support.html
+  - golden-child-support.html
+
+### css/siteground-optimizer-combined-css-f055c001454250691dff097666f1bf1d.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-f055c001454250691dff097666f1bf1d.css
+- Size: 1618470 bytes
+- Snapshots:
+  - careers.html
+
+### css/siteground-optimizer-combined-css-f26b19ae3bde0cf63d3ffb2785441288.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-f26b19ae3bde0cf63d3ffb2785441288.css
+- Size: 1761101 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-myths-regarding-alimony-in-colorado.html
+
+### css/siteground-optimizer-combined-css-f40241255ee596d8e41dc9faa96c156b.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-f40241255ee596d8e41dc9faa96c156b.css
+- Size: 1617778 bytes
+- Snapshots:
+  - terms-of-use.html
+
+### css/siteground-optimizer-combined-css-f5219e6eae4546bc71b67dc5983acb37.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-f5219e6eae4546bc71b67dc5983acb37.css
+- Size: 1679985 bytes
+- Snapshots:
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+
+### css/siteground-optimizer-combined-css-f656771c3840fb49392c897dafe6216a.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-f656771c3840fb49392c897dafe6216a.css
+- Size: 1617761 bytes
+- Snapshots:
+  - disclaimer.html
+
+### css/siteground-optimizer-combined-css-fe1c79cc92fbb55489af11ef99318ba0.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/siteground-optimizer-assets/siteground-optimizer-combined-css-fe1c79cc92fbb55489af11ef99318ba0.css
+- Size: 1778569 bytes
+- Snapshots:
+  - colorado/prenup-postnup.html
+
+### css/trustindex-google-widget-3b6ea8c7.css
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/trustindex-google-widget.css?1795218523
+- Size: 99051 bytes
+- Snapshots:
+  - colorado.html
+  - index.html
+
+### fonts/eicons-08771ecb.ttf
+
+- Source: https://thedrakelawfirm.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.57.0
+- Size: 243044 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/eicons-08771ecb.woff
+
+- Source: https://thedrakelawfirm.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.57.0
+- Size: 134328 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/eicons-08771ecb.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.57.0
+- Size: 109048 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/fa-brands-400.ttf
+
+- Source: https://thedrakelawfirm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+- Size: 151368 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/fa-brands-400.woff
+
+- Source: https://thedrakelawfirm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+- Size: 97804 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/fa-brands-400.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+- Size: 81612 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/fa-regular-400.ttf
+
+- Source: https://thedrakelawfirm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+- Size: 33736 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/fa-regular-400.woff
+
+- Source: https://thedrakelawfirm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+- Size: 16276 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/fa-regular-400.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+- Size: 13276 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/fa-solid-900.ttf
+
+- Source: https://thedrakelawfirm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+- Size: 202744 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/fa-solid-900.woff
+
+- Source: https://thedrakelawfirm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+- Size: 101652 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/fa-solid-900.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+- Size: 78196 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/astra-local-fonts/open-sans/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2
+- Size: 48320 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/astra-local-fonts/open-sans/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS2mu1aB.woff2
+- Size: 16920 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/astra-local-fonts/open-sans/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSCmu1aB.woff2
+- Size: 16496 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu1aB.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/astra-local-fonts/open-sans/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSGmu1aB.woff2
+- Size: 35156 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/astra-local-fonts/open-sans/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSKmu1aB.woff2
+- Size: 49268 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/astra-local-fonts/open-sans/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSOmu1aB.woff2
+- Size: 4504 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/astra-local-fonts/open-sans/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSumu1aB.woff2
+- Size: 26588 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/astra-local-fonts/open-sans/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTSymu1aB.woff2
+- Size: 21332 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/astra-local-fonts/open-sans/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTUGmu1aB.woff2
+- Size: 26596 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu1aB.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/astra-local-fonts/open-sans/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTVOmu1aB.woff2
+- Size: 51912 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgFE_.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/astra-local-fonts/playfair-display/nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgFE_.woff2
+- Size: 21152 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgFE_.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/astra-local-fonts/playfair-display/nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgFE_.woff2
+- Size: 21140 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgFE_.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/astra-local-fonts/playfair-display/nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgFE_.woff2
+- Size: 9112 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/astra-local-fonts/playfair-display/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2
+- Size: 38404 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/opensans-0a8acd38.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-0a8acd38.woff2
+- Size: 26588 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/opensans-190d4f63.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-190d4f63.woff2
+- Size: 50216 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/opensans-1c3db71c.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-1c3db71c.woff2
+- Size: 35156 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/opensans-1f781ac4.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-1f781ac4.woff2
+- Size: 16496 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/opensans-2e4b90dc.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-2e4b90dc.woff2
+- Size: 21332 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/opensans-37b488f0.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-37b488f0.woff2
+- Size: 49268 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/opensans-3ee941b3.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-3ee941b3.woff2
+- Size: 51912 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/opensans-546a9667.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-546a9667.woff2
+- Size: 26368 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/opensans-67bb12a6.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-67bb12a6.woff2
+- Size: 26596 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/opensans-7f21be39.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-7f21be39.woff2
+- Size: 4844 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/opensans-9edfdd4d.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-9edfdd4d.woff2
+- Size: 32016 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/opensans-a142414c.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-a142414c.woff2
+- Size: 37752 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/opensans-b04750ea.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-b04750ea.woff2
+- Size: 17212 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/opensans-b6e2b283.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-b6e2b283.woff2
+- Size: 17880 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/opensans-c1b3d688.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-c1b3d688.woff2
+- Size: 56528 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/opensans-c79c2f57.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-c79c2f57.woff2
+- Size: 48320 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/opensans-d12d697f.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-d12d697f.woff2
+- Size: 4504 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/opensans-d387aeca.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-d387aeca.woff2
+- Size: 16920 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/opensans-debdd546.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-debdd546.woff2
+- Size: 54944 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/opensans-fdde3d6c.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/opensans-fdde3d6c.woff2
+- Size: 22920 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/playfairdisplay-2d6d99f2.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/playfairdisplay-2d6d99f2.woff2
+- Size: 23380 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/playfairdisplay-61a96359.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/playfairdisplay-61a96359.woff2
+- Size: 38404 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/playfairdisplay-638ff05b.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/playfairdisplay-638ff05b.woff2
+- Size: 21152 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/playfairdisplay-b23708ec.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/playfairdisplay-b23708ec.woff2
+- Size: 9112 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/playfairdisplay-bd791f6c.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/playfairdisplay-bd791f6c.woff2
+- Size: 23304 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/playfairdisplay-ca741028.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/playfairdisplay-ca741028.woff2
+- Size: 21140 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/playfairdisplay-d1436136.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/playfairdisplay-d1436136.woff2
+- Size: 38804 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/playfairdisplay-e469a5d3.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/playfairdisplay-e469a5d3.woff2
+- Size: 9568 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/roboto-0249f65a.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-0249f65a.woff2
+- Size: 4348 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/roboto-09f504e0.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-09f504e0.woff2
+- Size: 25464 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/roboto-0f7fcdc8.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-0f7fcdc8.woff2
+- Size: 43136 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/roboto-210e0792.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-210e0792.woff2
+- Size: 36652 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/roboto-48514a2c.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-48514a2c.woff2
+- Size: 45184 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/roboto-59bd2d54.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-59bd2d54.woff2
+- Size: 40480 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/roboto-6b29be68.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-6b29be68.woff2
+- Size: 18780 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/roboto-894b2e7f.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-894b2e7f.woff2
+- Size: 15344 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/roboto-8ed4bb54.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-8ed4bb54.woff2
+- Size: 47208 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/roboto-a81d578b.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-a81d578b.woff2
+- Size: 22440 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/roboto-b5151e85.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-b5151e85.woff2
+- Size: 17624 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/roboto-ba5507f2.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-ba5507f2.woff2
+- Size: 41348 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/roboto-bbbbbd37.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-bbbbbd37.woff2
+- Size: 14340 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/roboto-da69b94e.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-da69b94e.woff2
+- Size: 20556 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/roboto-e2103707.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-e2103707.woff2
+- Size: 31820 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/roboto-ec145187.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-ec145187.woff2
+- Size: 4452 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/roboto-f0106b44.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-f0106b44.woff2
+- Size: 29392 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+### fonts/roboto-f6655444.woff2
+
+- Source: https://thedrakelawfirm.com/wp-content/uploads/elementor/google-fonts/fonts/roboto-f6655444.woff2
+- Size: 23664 bytes
+- Snapshots:
+  - 2024-new-year-resolutions.html
+  - 3-frequently-asked-questions-regarding-divorce.html
+  - 3-myths-regarding-alimony-in-colorado.html
+  - alimony-attorney-arvada-colorado.html
+  - alimony-attorney-lakewood-colorado.html
+  - all-forms.html
+  - are-you-new-to-co-parenting-looking-for-effective-ways.html
+  - arvada-co-child-custody-attorneys.html
+  - arvada-co-divorce-attorneys.html
+  - blog.html
+  - boulder-county-child-custody-lawyer-near-me-colorado.html
+  - boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - boulder-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - boulder-county-prenup-postnuptial-lawyer-colorado.html
+  - business-organizations.html
+  - business-transactions.html
+  - careers.html
+  - child-custody-attorneys-lakewood-co.html
+  - child-custody-modifications-arvada-co.html
+  - child-support-attorneys-lakewood.html
+  - colorado.html
+  - colorado/adoption.html
+  - colorado/alimony.html
+  - colorado/areas.html
+  - colorado/areas/clear-creek-county.html
+  - colorado/areas/denver-county.html
+  - colorado/areas/jefferson-county.html
+  - colorado/attorneys.html
+  - colorado/attorneys/madeline-legrange.html
+  - colorado/attorneys/marie-drake.html
+  - colorado/child-custody.html
+  - colorado/child-custody/fathers-rights.html
+  - colorado/child-custody/grandparents-rights.html
+  - colorado/child-custody/modification.html
+  - colorado/child-support.html
+  - colorado/child-support/modification.html
+  - colorado/divorce.html
+  - colorado/divorce/common-law-marriage.html
+  - colorado/divorce/contested-divorce.html
+  - colorado/divorce/uncontested-divorce.html
+  - colorado/guardianship.html
+  - colorado/locations.html
+  - colorado/locations/golden.html
+  - colorado/locations/lakewood.html
+  - colorado/paternity.html
+  - colorado/prenup-postnup.html
+  - colorado/property-division.html
+  - commercial-civil-litigation.html
+  - common-law-marriage-attorney-lakewood-colorado.html
+  - contact-us.html
+  - contested-divorce-attorney-lakewood-colorado.html
+  - curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html
+  - curious-about-what-colorados-standard-prenup-agreement-says.html
+  - disclaimer.html
+  - do-you-need-a-postnuptial-agreement.html
+  - family-law-attorney-lakewood-colorado.html
+  - family-law.html
+  - family-law/parental-alienation-lawyer.html
+  - family-law/post-decree-modification.html
+  - family-law/uncontested-divorce-lakewood-co.html
+  - family-law/uncontested-divorce-lawyer.html
+  - faqs.html
+  - golden-child-custody.html
+  - golden-child-support.html
+  - how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html
+  - index.html
+  - jefferson-county-child-custody-lawyer-near-me-colorado.html
+  - jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html
+  - jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html
+  - jefferson-county-prenup-postnuptial-lawyer-colorado.html
+  - lakewood-paternity-lawyer.html
+  - lp.html
+  - moving-partner-avoid-common-law.html
+  - news.html
+  - no-drama-divorce-2.html
+  - our-location.html
+  - our-location/golden.html
+  - practice-areas.html
+  - prenup-lawyer-arvada-co.html
+  - prenup-lawyer-lakewood-co.html
+  - privacy-policy.html
+  - real-estate-law.html
+  - reasons-to-consider-a-prenup-if-youre-getting-married.html
+  - seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html
+  - starting-your-own-business-in-colorado.html
+  - stephanie-berardini.html
+  - tatiana-quijano.html
+  - terms-of-use.html
+  - thank-you-zip.html
+  - thank-you.html
+  - video-faqs/addressing-missing-child-support-payments.html
+  - video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+## Google Fonts listed only
+
+These URLs were not downloaded.
+
+- https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxhTg.ttf
+  - Snapshots: 2024-new-year-resolutions.html, 3-frequently-asked-questions-regarding-divorce.html, 3-myths-regarding-alimony-in-colorado.html, alimony-attorney-arvada-colorado.html, alimony-attorney-lakewood-colorado.html, all-forms.html, are-you-new-to-co-parenting-looking-for-effective-ways.html, arvada-co-child-custody-attorneys.html, arvada-co-divorce-attorneys.html, blog.html, boulder-county-child-custody-lawyer-near-me-colorado.html, boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html, boulder-county-maintenance-lawyer-colorado-alimony-attorney.html, boulder-county-prenup-postnuptial-lawyer-colorado.html, business-organizations.html, business-transactions.html, careers.html, child-custody-attorneys-lakewood-co.html, child-custody-modifications-arvada-co.html, child-support-attorneys-lakewood.html, colorado.html, colorado/adoption.html, colorado/alimony.html, colorado/areas.html, colorado/areas/clear-creek-county.html, colorado/areas/denver-county.html, colorado/areas/jefferson-county.html, colorado/attorneys.html, colorado/attorneys/madeline-legrange.html, colorado/attorneys/marie-drake.html, colorado/child-custody.html, colorado/child-custody/fathers-rights.html, colorado/child-custody/grandparents-rights.html, colorado/child-custody/modification.html, colorado/child-support.html, colorado/child-support/modification.html, colorado/divorce.html, colorado/divorce/common-law-marriage.html, colorado/divorce/contested-divorce.html, colorado/divorce/uncontested-divorce.html, colorado/guardianship.html, colorado/locations.html, colorado/locations/golden.html, colorado/locations/lakewood.html, colorado/paternity.html, colorado/prenup-postnup.html, colorado/property-division.html, commercial-civil-litigation.html, common-law-marriage-attorney-lakewood-colorado.html, contact-us.html, contested-divorce-attorney-lakewood-colorado.html, curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html, curious-about-what-colorados-standard-prenup-agreement-says.html, disclaimer.html, do-you-need-a-postnuptial-agreement.html, family-law-attorney-lakewood-colorado.html, family-law.html, family-law/parental-alienation-lawyer.html, family-law/post-decree-modification.html, family-law/uncontested-divorce-lakewood-co.html, family-law/uncontested-divorce-lawyer.html, faqs.html, golden-child-custody.html, golden-child-support.html, how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html, index.html, jefferson-county-child-custody-lawyer-near-me-colorado.html, jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html, jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html, jefferson-county-prenup-postnuptial-lawyer-colorado.html, lakewood-paternity-lawyer.html, lp.html, moving-partner-avoid-common-law.html, news.html, no-drama-divorce-2.html, our-location.html, our-location/golden.html, practice-areas.html, prenup-lawyer-arvada-co.html, prenup-lawyer-lakewood-co.html, privacy-policy.html, real-estate-law.html, reasons-to-consider-a-prenup-if-youre-getting-married.html, seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html, starting-your-own-business-in-colorado.html, stephanie-berardini.html, tatiana-quijano.html, terms-of-use.html, thank-you-zip.html, thank-you.html, video-faqs/addressing-missing-child-support-payments.html, video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+- https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthTg.ttf
+  - Snapshots: 2024-new-year-resolutions.html, 3-frequently-asked-questions-regarding-divorce.html, 3-myths-regarding-alimony-in-colorado.html, alimony-attorney-arvada-colorado.html, alimony-attorney-lakewood-colorado.html, all-forms.html, are-you-new-to-co-parenting-looking-for-effective-ways.html, arvada-co-child-custody-attorneys.html, arvada-co-divorce-attorneys.html, blog.html, boulder-county-child-custody-lawyer-near-me-colorado.html, boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html, boulder-county-maintenance-lawyer-colorado-alimony-attorney.html, boulder-county-prenup-postnuptial-lawyer-colorado.html, business-organizations.html, business-transactions.html, careers.html, child-custody-attorneys-lakewood-co.html, child-custody-modifications-arvada-co.html, child-support-attorneys-lakewood.html, colorado.html, colorado/adoption.html, colorado/alimony.html, colorado/areas.html, colorado/areas/clear-creek-county.html, colorado/areas/denver-county.html, colorado/areas/jefferson-county.html, colorado/attorneys.html, colorado/attorneys/madeline-legrange.html, colorado/attorneys/marie-drake.html, colorado/child-custody.html, colorado/child-custody/fathers-rights.html, colorado/child-custody/grandparents-rights.html, colorado/child-custody/modification.html, colorado/child-support.html, colorado/child-support/modification.html, colorado/divorce.html, colorado/divorce/common-law-marriage.html, colorado/divorce/contested-divorce.html, colorado/divorce/uncontested-divorce.html, colorado/guardianship.html, colorado/locations.html, colorado/locations/golden.html, colorado/locations/lakewood.html, colorado/paternity.html, colorado/prenup-postnup.html, colorado/property-division.html, commercial-civil-litigation.html, common-law-marriage-attorney-lakewood-colorado.html, contact-us.html, contested-divorce-attorney-lakewood-colorado.html, curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html, curious-about-what-colorados-standard-prenup-agreement-says.html, disclaimer.html, do-you-need-a-postnuptial-agreement.html, family-law-attorney-lakewood-colorado.html, family-law.html, family-law/parental-alienation-lawyer.html, family-law/post-decree-modification.html, family-law/uncontested-divorce-lakewood-co.html, family-law/uncontested-divorce-lawyer.html, faqs.html, golden-child-custody.html, golden-child-support.html, how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html, index.html, jefferson-county-child-custody-lawyer-near-me-colorado.html, jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html, jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html, jefferson-county-prenup-postnuptial-lawyer-colorado.html, lakewood-paternity-lawyer.html, lp.html, moving-partner-avoid-common-law.html, news.html, no-drama-divorce-2.html, our-location.html, our-location/golden.html, practice-areas.html, prenup-lawyer-arvada-co.html, prenup-lawyer-lakewood-co.html, privacy-policy.html, real-estate-law.html, reasons-to-consider-a-prenup-if-youre-getting-married.html, seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html, starting-your-own-business-in-colorado.html, stephanie-berardini.html, tatiana-quijano.html, terms-of-use.html, thank-you-zip.html, thank-you.html, video-faqs/addressing-missing-child-support-payments.html, video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+- https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+  - Snapshots: 2024-new-year-resolutions.html, 3-frequently-asked-questions-regarding-divorce.html, 3-myths-regarding-alimony-in-colorado.html, alimony-attorney-arvada-colorado.html, alimony-attorney-lakewood-colorado.html, all-forms.html, are-you-new-to-co-parenting-looking-for-effective-ways.html, arvada-co-child-custody-attorneys.html, arvada-co-divorce-attorneys.html, blog.html, boulder-county-child-custody-lawyer-near-me-colorado.html, boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html, boulder-county-maintenance-lawyer-colorado-alimony-attorney.html, boulder-county-prenup-postnuptial-lawyer-colorado.html, business-organizations.html, business-transactions.html, careers.html, child-custody-attorneys-lakewood-co.html, child-custody-modifications-arvada-co.html, child-support-attorneys-lakewood.html, colorado.html, colorado/adoption.html, colorado/alimony.html, colorado/areas.html, colorado/areas/clear-creek-county.html, colorado/areas/denver-county.html, colorado/areas/jefferson-county.html, colorado/attorneys.html, colorado/attorneys/madeline-legrange.html, colorado/attorneys/marie-drake.html, colorado/child-custody.html, colorado/child-custody/fathers-rights.html, colorado/child-custody/grandparents-rights.html, colorado/child-custody/modification.html, colorado/child-support.html, colorado/child-support/modification.html, colorado/divorce.html, colorado/divorce/common-law-marriage.html, colorado/divorce/contested-divorce.html, colorado/divorce/uncontested-divorce.html, colorado/guardianship.html, colorado/locations.html, colorado/locations/golden.html, colorado/locations/lakewood.html, colorado/paternity.html, colorado/prenup-postnup.html, colorado/property-division.html, commercial-civil-litigation.html, common-law-marriage-attorney-lakewood-colorado.html, contact-us.html, contested-divorce-attorney-lakewood-colorado.html, curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html, curious-about-what-colorados-standard-prenup-agreement-says.html, disclaimer.html, do-you-need-a-postnuptial-agreement.html, family-law-attorney-lakewood-colorado.html, family-law.html, family-law/parental-alienation-lawyer.html, family-law/post-decree-modification.html, family-law/uncontested-divorce-lakewood-co.html, family-law/uncontested-divorce-lawyer.html, faqs.html, golden-child-custody.html, golden-child-support.html, how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html, index.html, jefferson-county-child-custody-lawyer-near-me-colorado.html, jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html, jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html, jefferson-county-prenup-postnuptial-lawyer-colorado.html, lakewood-paternity-lawyer.html, lp.html, moving-partner-avoid-common-law.html, news.html, no-drama-divorce-2.html, our-location.html, our-location/golden.html, practice-areas.html, prenup-lawyer-arvada-co.html, prenup-lawyer-lakewood-co.html, privacy-policy.html, real-estate-law.html, reasons-to-consider-a-prenup-if-youre-getting-married.html, seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html, starting-your-own-business-in-colorado.html, stephanie-berardini.html, tatiana-quijano.html, terms-of-use.html, thank-you-zip.html, thank-you.html, video-faqs/addressing-missing-child-support-payments.html, video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+- https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+  - Snapshots: 2024-new-year-resolutions.html, 3-frequently-asked-questions-regarding-divorce.html, 3-myths-regarding-alimony-in-colorado.html, alimony-attorney-arvada-colorado.html, alimony-attorney-lakewood-colorado.html, all-forms.html, are-you-new-to-co-parenting-looking-for-effective-ways.html, arvada-co-child-custody-attorneys.html, arvada-co-divorce-attorneys.html, blog.html, boulder-county-child-custody-lawyer-near-me-colorado.html, boulder-county-divorce-lawyer-colorado-divorce-mediation-attorney.html, boulder-county-maintenance-lawyer-colorado-alimony-attorney.html, boulder-county-prenup-postnuptial-lawyer-colorado.html, business-organizations.html, business-transactions.html, careers.html, child-custody-attorneys-lakewood-co.html, child-custody-modifications-arvada-co.html, child-support-attorneys-lakewood.html, colorado.html, colorado/adoption.html, colorado/alimony.html, colorado/areas.html, colorado/areas/clear-creek-county.html, colorado/areas/denver-county.html, colorado/areas/jefferson-county.html, colorado/attorneys.html, colorado/attorneys/madeline-legrange.html, colorado/attorneys/marie-drake.html, colorado/child-custody.html, colorado/child-custody/fathers-rights.html, colorado/child-custody/grandparents-rights.html, colorado/child-custody/modification.html, colorado/child-support.html, colorado/child-support/modification.html, colorado/divorce.html, colorado/divorce/common-law-marriage.html, colorado/divorce/contested-divorce.html, colorado/divorce/uncontested-divorce.html, colorado/guardianship.html, colorado/locations.html, colorado/locations/golden.html, colorado/locations/lakewood.html, colorado/paternity.html, colorado/prenup-postnup.html, colorado/property-division.html, commercial-civil-litigation.html, common-law-marriage-attorney-lakewood-colorado.html, contact-us.html, contested-divorce-attorney-lakewood-colorado.html, curious-about-how-retirement-accounts-get-divided-up-in-a-divorce.html, curious-about-what-colorados-standard-prenup-agreement-says.html, disclaimer.html, do-you-need-a-postnuptial-agreement.html, family-law-attorney-lakewood-colorado.html, family-law.html, family-law/parental-alienation-lawyer.html, family-law/post-decree-modification.html, family-law/uncontested-divorce-lakewood-co.html, family-law/uncontested-divorce-lawyer.html, faqs.html, golden-child-custody.html, golden-child-support.html, how-to-recognize-signs-that-your-marriage-counseling-is-or-isnt-working.html, index.html, jefferson-county-child-custody-lawyer-near-me-colorado.html, jefferson-county-divorce-lawyer-colorado-divorce-mediation-attorney.html, jefferson-county-maintenance-lawyer-colorado-alimony-attorney.html, jefferson-county-prenup-postnuptial-lawyer-colorado.html, lakewood-paternity-lawyer.html, lp.html, moving-partner-avoid-common-law.html, news.html, no-drama-divorce-2.html, our-location.html, our-location/golden.html, practice-areas.html, prenup-lawyer-arvada-co.html, prenup-lawyer-lakewood-co.html, privacy-policy.html, real-estate-law.html, reasons-to-consider-a-prenup-if-youre-getting-married.html, seeking-ways-to-maintain-a-positive-relationship-with-your-children-during-a-divorce.html, starting-your-own-business-in-colorado.html, stephanie-berardini.html, tatiana-quijano.html, terms-of-use.html, thank-you-zip.html, thank-you.html, video-faqs/addressing-missing-child-support-payments.html, video-faqs/are-you-a-colorado-business-owner-with-concerns-about-the-new-pto-law.html
+
+## Failed URLs
+
+None.
+
+## CSS urls not saved
+
+Stylesheet url() values that are not font files and not further stylesheets were not downloaded. The task asks for stylesheets, on-site font files, the header logo, and the favicon.
+
+Count: 66.
+
+
+## Screenshots
+
+Full-page captures. Desktop viewport 1440x900. Mobile viewport 390x844. None were larger than 5 MB, so none were retaken.
+
+- screens/home-desktop.png: 3191365 bytes, https://thedrakelawfirm.com/
+- screens/home-mobile.png: 900700 bytes, https://thedrakelawfirm.com/
+- screens/divorce-desktop.png: 3225856 bytes, https://thedrakelawfirm.com/colorado/divorce/
+- screens/divorce-mobile.png: 2449341 bytes, https://thedrakelawfirm.com/colorado/divorce/
+- screens/attorney-desktop.png: 1680673 bytes, https://thedrakelawfirm.com/colorado/attorneys/marie-drake/
+- screens/attorney-mobile.png: 747389 bytes, https://thedrakelawfirm.com/colorado/attorneys/marie-drake/
+- screens/blog-desktop.png: 1821363 bytes, https://thedrakelawfirm.com/blog/
+- screens/blog-mobile.png: 760306 bytes, https://thedrakelawfirm.com/blog/
+- screens/post-desktop.png: 1491971 bytes, https://thedrakelawfirm.com/3-myths-regarding-alimony-in-colorado/
+- screens/post-mobile.png: 800686 bytes, https://thedrakelawfirm.com/3-myths-regarding-alimony-in-colorado/
+- screens/videofaq-desktop.png: 2015953 bytes, https://thedrakelawfirm.com/video-faqs/addressing-missing-child-support-payments/
+- screens/videofaq-mobile.png: 1161333 bytes, https://thedrakelawfirm.com/video-faqs/addressing-missing-child-support-payments/
+- screens/contact-desktop.png: 1548212 bytes, https://thedrakelawfirm.com/contact-us/
+- screens/contact-mobile.png: 846636 bytes, https://thedrakelawfirm.com/contact-us/
