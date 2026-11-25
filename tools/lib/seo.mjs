@@ -54,7 +54,7 @@ export function writeSitemaps(site, pages, redirectSources) {
     return !redirectSources.has(p.item.path.replace(/\/$/, '') || '/');
   });
   const groups = { page: [], post: [], 'video-faqs': [] };
-  for (const p of indexable) (groups[p.item.type] || groups.page).push(p);
+  for (const p of indexable) (groups[p.item.sitemap || p.item.type] || groups.page).push(p);
   const files = [];
   const now = new Date().toISOString();
   for (const [type, list] of Object.entries(groups)) {

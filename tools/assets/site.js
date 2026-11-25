@@ -113,6 +113,63 @@
     w.addEventListener('mouseenter', function () { clearInterval(t); });
   });
 
+  // Video FAQ grid: search, tag, date and Load more, from the index in the page
+  var idx = d.getElementById('drake-faq-index');
+  var grid = d.querySelector('.wp-grid-builder .wpgb-viewport, .wpgb-grid, .wp-grid-builder');
+  if (idx && grid) {
+    var all = [];
+    try { all = JSON.parse(idx.textContent); } catch (e) {}
+    var first = d.querySelector('article.wpgb-card');
+    var holder = first && first.parentNode;
+    var tpl = first && first.cloneNode(true);
+    var STEP = 10;
+    var shown = STEP;
+    var q = { s: '', tag: '', date: '' };
+    $$('.wpgb-facet').forEach(function (f) { f.classList.remove('wpgb-loading'); });
+    var more = d.querySelector('.wpgb-load-more');
+    var esc = function (s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); };
+    var card = function (it) {
+      var c = tpl.cloneNode(true);
+      c.className = 'wpgb-card wpgb-card-1';
+      var a = c.querySelector('h3 a'); a.href = it.u; a.textContent = it.t;
+      c.querySelector('.wpgb-block-2').textContent = it.e;
+      c.querySelector('.wpgb-block-3').href = it.u;
+      var th = c.querySelector('.wpgb-card-media-thumbnail');
+      if (th) {
+        if (it.i) { th.querySelector('a').href = it.f; th.querySelector('div').style.backgroundImage = 'url(' + esc(it.i) + ')'; }
+        else th.innerHTML = '';
+      }
+      return c;
+    };
+    var render = function () {
+      var s = q.s.toLowerCase();
+      var list = all.filter(function (it) {
+        return (!s || (it.t + ' ' + it.e).toLowerCase().indexOf(s) >= 0) && (!q.tag || it.g.indexOf(q.tag) >= 0) && (!q.date || it.d === q.date);
+      });
+      holder.innerHTML = '';
+      list.slice(0, shown).forEach(function (it) { holder.appendChild(card(it)); });
+      if (!list.length) holder.innerHTML = '<p style="padding:20px">No videos match your search.</p>';
+      if (more) {
+        var left = list.length - shown;
+        more.textContent = 'Load more (' + Math.max(left, 0) + ')';
+        more.style.display = left > 0 ? '' : 'none';
+      }
+    };
+    var reset = function () { shown = STEP; render(); };
+    var input = d.querySelector('.wpgb-search-facet input');
+    if (input) input.addEventListener('input', function () { q.s = input.value.trim(); reset(); });
+    var sel = d.querySelector('.wpgb-select-facet select');
+    if (sel) sel.addEventListener('change', function () { q.tag = sel.value; reset(); });
+    var date = d.querySelector('.wpgb-date-facet input');
+    if (date) {
+      date.addEventListener('focus', function () { date.type = 'date'; });
+      date.addEventListener('blur', function () { if (!date.value) date.type = 'text'; });
+      date.addEventListener('change', function () { q.date = date.value; reset(); });
+    }
+    if (more) more.addEventListener('click', function () { shown += STEP; render(); });
+    if (tpl && holder) render();
+  }
+
   // Forms: record which page the message came from
   $$('form[data-netlify] input[name="page"]').forEach(function (i) { i.value = location.pathname; });
 

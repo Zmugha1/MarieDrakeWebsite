@@ -241,6 +241,24 @@ function sliderCss(counts) {
   }).join('');
 }
 
+// Video FAQ grid. The old grid plugin filtered and loaded more cards over AJAX.
+// The same data now ships inside the page and site.js does the filtering.
+function faqIndex(faqs) {
+  const thumb = (u) => (u ? localUrl(u).replace(/(\.[a-z]+)$/i, '-768x432$1') : '');
+  return faqs.map((f) => {
+    const words = cheerio.load(f.content?.rendered || '').text().replace(/\s+/g, ' ').trim().split(' ');
+    return {
+      t: cheerio.load(f.title).text(),
+      u: f.path,
+      d: (f.date || '').slice(0, 10),
+      g: (f.tags || []).map((x) => x.slug),
+      e: words.slice(0, 35).join(' ') + (words.length > 35 ? '...' : ''),
+      i: thumb(f.featured_image_url),
+      f: localUrl(f.featured_image_url || ''),
+    };
+  });
+}
+
 // ---------- page assembly ----------
 
 function render(item, ctx, listing) {
@@ -305,6 +323,11 @@ const ctx = {
   posts: items.filter((i) => i.type === 'post').sort(byDate),
   faqs: items.filter((i) => i.type === 'video-faqs').sort(byDate),
 };
+// Archive pages WordPress generated with no page of their own in the export.
+// They are built from their saved copies: /video-faqs/ and /video-faqs/page/2/ on.
+for (const [path, file] of [['/video-faqs/', 'video-faqs.html'], ...(existsSync(join(SNAP, 'video-faqs', 'page')) ? readdirSync(join(SNAP, 'video-faqs', 'page')).filter((f) => /^\d+\.html$/.test(f)).map((f) => [`/video-faqs/page/${f.replace('.html', '')}/`, `video-faqs/page/${f}`]) : [])]) {
+  if (existsSync(join(SNAP, file))) items.push({ id: 0, type: 'page', sitemap: 'video-faqs', path, title: 'Video FAQs', content: { rendered: '' }, yoast_head_json: {} });
+}
 const todo = ONLY.length ? items.filter((i) => ONLY.includes(i.path)) : items;
 
 if (!ONLY.length && existsSync(SITE)) {
@@ -344,7 +367,7 @@ for (const p of pages) {
     .replace('<!--PAGE-CSS-->', css ? `<style>${css}</style>` : '')
     .replace('<!--ANALYTICS-HEAD-->', PRODUCTION ? partial('analytics-head.html') : '<meta name="robots" content="noindex, nofollow">')
     .replace('<!--ANALYTICS-BODY-->', PRODUCTION ? partial('analytics-body.html') : '')
-    .replace('<!--A11Y-->', partial('a11y.html'));
+    .replace('<!--A11Y-->', partial('a11y.html') + (p.html.includes('wpgb-facet') ? `<script type="application/json" id="drake-faq-index">${JSON.stringify(faqIndex(ctx.faqs)).replace(/</g, '\\u003c')}</script>` : ''));
   if (!PRODUCTION) html = html.replace(/<meta name="robots" content="(?!noindex, nofollow)[^"]*">\n?/g, '');
   const out = p.item.path === '/' ? join(SITE, 'index.html') : join(SITE, p.item.path, 'index.html');
   mkdirSync(dirname(out), { recursive: true });
