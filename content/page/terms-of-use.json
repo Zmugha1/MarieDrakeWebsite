@@ -1,0 +1,130 @@
+{
+  "id": 1379,
+  "slug": "terms-of-use",
+  "link": "https://thedrakelawfirm.com/terms-of-use/",
+  "path": "/terms-of-use/",
+  "title": "Terms Of Use",
+  "date": "2021-10-30T06:17:13",
+  "modified": "2026-11-05T22:16:44",
+  "status": "publish",
+  "parent": 0,
+  "menu_order": 0,
+  "template": "",
+  "categories": [],
+  "tags": [],
+  "featured_image_url": "",
+  "content": {
+    "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"1379\" class=\"elementor elementor-1379\" data-elementor-post-type=\"page\">\n\t\t\t\t\t\t<section class=\"has_eae_slider elementor-section elementor-top-section elementor-element elementor-element-0cc8d27 elementor-section-full_width elementor-section-height-default elementor-section-height-default\" data-eae-slider=\"57\" data-id=\"0cc8d27\" data-element_type=\"section\" data-e-type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t\t<div class=\"elementor-background-overlay\"></div>\n\t\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"has_eae_slider elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2f93b4f\" data-eae-slider=\"64519\" data-id=\"2f93b4f\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-39da4a3 elementor-widget elementor-widget-heading\" data-id=\"39da4a3\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h1 class=\"elementor-heading-title elementor-size-default\">Our Terms of Use</h1>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-371f4e4 elementor-widget elementor-widget-text-editor\" data-id=\"371f4e4\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>Get the help you need!</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-24a4ea5 elementor-align-center elementor-widget elementor-widget-button\" data-id=\"24a4ea5\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<div class=\"elementor-button-wrapper\">\n\t\t\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"tel:303-261-8111\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Call (303) 261-8111</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"has_eae_slider elementor-section elementor-top-section elementor-element elementor-element-3e75e22 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-eae-slider=\"38937\" data-id=\"3e75e22\" data-element_type=\"section\" data-e-type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"has_eae_slider elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7ac9cdb\" data-eae-slider=\"3322\" data-id=\"7ac9cdb\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap\">\n\t\t\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t<section class=\"has_eae_slider elementor-section elementor-top-section elementor-element elementor-element-7145104 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-eae-slider=\"47900\" data-id=\"7145104\" data-element_type=\"section\" data-e-type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"has_eae_slider elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8ad36b8\" data-eae-slider=\"57262\" data-id=\"8ad36b8\" data-element_type=\"column\" data-e-type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-0cf3132 elementor-widget elementor-widget-text-editor\" data-id=\"0cf3132\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>By accessing this web site, you are agreeing to be bound by these website Terms and Conditions of Use, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this web site are protected by applicable copyright and trademark law.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-605c861 elementor-widget elementor-widget-heading\" data-id=\"605c861\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Intellectual Property Rights\n</h2>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-8464233 elementor-widget elementor-widget-text-editor\" data-id=\"8464233\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>All copyrights, trademarks, patents and other intellectual property rights in and on our website and all content and software located on the site shall remain the sole property of our company or its licensors. The use of our trademarks, content and intellectual property is forbidden without the express written consent from the owner of this website.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-b2ecfe2 elementor-widget elementor-widget-heading\" data-id=\"b2ecfe2\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">You must not:</h2>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-8d6e8bd elementor-widget elementor-widget-text-editor\" data-id=\"8d6e8bd\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>* Republish material from our website without prior written consent.<br />* Sell or rent material from our website.<br />* Reproduce, duplicate, create derivative, copy or otherwise exploit material on our website for any purpose.<br />* Redistribute any content from our website, including onto another website.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-6665600 elementor-widget elementor-widget-heading\" data-id=\"6665600\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Acceptable Use</h2>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-a511e96 elementor-widget elementor-widget-text-editor\" data-id=\"a511e96\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>You agree to use our website only for lawful purposes, and in a way that does not infringe the rights of, restrict or inhibit anyone else’s use and enjoyment of the website. Prohibited behavior includes harassing or causing distress or inconvenience to any other user, transmitting obscene or offensive content or disrupting the normal flow of dialogue within our website.<br /><br /></p><p>You must not use our website to send unsolicited commercial communications.<br />You must not use the content on our website for any marketing related purpose without our express written consent.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-37b1f1a elementor-widget elementor-widget-heading\" data-id=\"37b1f1a\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Restricted Access\n</h2>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-50dd669 elementor-widget elementor-widget-text-editor\" data-id=\"50dd669\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>We may in the future need to restrict access to parts (or all) of our website and reserve full rights to do so. If, at any point, we provide you with a username and password for you to access restricted areas of our website, you must ensure that both your username and password are kept confidential.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-17292ac elementor-widget elementor-widget-heading\" data-id=\"17292ac\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Revisions</h2>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-c2bd09d elementor-widget elementor-widget-text-editor\" data-id=\"c2bd09d\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>The owner of this website may change these terms from time to time and so you should check these terms regularly. Your continued use of our website will be deemed acceptance of the updated or amended terms. If you do not agree to the changes, you should cease using our website immediately.<br /><br /></p><p>If any of these terms are determined to be illegal, invalid or otherwise unenforceable, it shall be severed and deleted from these terms and the remaining terms shall survive and continue to be binding and enforceable.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-c817272 elementor-widget elementor-widget-heading\" data-id=\"c817272\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title elementor-size-default\">Limitation of Liability\n</h2>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"elementor-element elementor-element-3f84a6e elementor-widget elementor-widget-text-editor\" data-id=\"3f84a6e\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>THE MATERIALS AT THIS SITE ARE PROVIDED “AS IS” WITHOUT ANY EXPRESS OR IMPLIED WARRANTY OF ANY KIND INCLUDING WARRANTIES OF MERCHANTABILITY, NON INFRINGEMENT OF INTELLECTUAL PROPERTY, OR FITNESS FOR ANY PARTICULAR PURPOSE. IN NO EVENT SHALL THE OWNER OF THIS WEBSITE OR ITS AGENTS OR OFFICERS BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, BUSINESS INTERRUPTION, LOSS OF INFORMATION, INJURY OR DEATH) ARISING OUT OF THE USE OF OR INABILITY TO USE THE MATERIALS, EVEN IF THE OWNER OF THIS WEBSITE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH LOSS OR DAMAGES.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\t\t\t\t</div>\n\t\t"
+  },
+  "excerpt": {
+    "rendered": "<p>Our Terms of Use Get the help you need! Call (303) 261-8111 By accessing this web site, you are agreeing to be bound by these website Terms and Conditions of Use, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with [&hellip;]</p>\n"
+  },
+  "yoast_head_json": {
+    "title": "Terms of Use | The Drake Law Firm, PC",
+    "description": "Terms of use for The Drake Law Firm, PC website. Read the terms and conditions that apply when you access and use thedrakelawfirm.com.",
+    "canonical": "https://thedrakelawfirm.com/terms-of-use/",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Terms of Use | The Drake Law Firm, PC",
+    "og_description": "Terms of use for The Drake Law Firm, PC website. Read the terms and conditions that apply when you access and use thedrakelawfirm.com.",
+    "og_url": "https://thedrakelawfirm.com/terms-of-use/",
+    "og_site_name": "The Drake Law Firm, PC",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://thedrakelawfirm.com/terms-of-use/",
+          "url": "https://thedrakelawfirm.com/terms-of-use/",
+          "name": "Terms of Use | The Drake Law Firm, PC",
+          "isPartOf": {
+            "@id": "https://thedrakelawfirm.com/#website"
+          },
+          "datePublished": "2021-10-30T06:17:13+00:00",
+          "dateModified": "2026-11-05T22:16:44+00:00",
+          "description": "Terms of use for The Drake Law Firm, PC website. Read the terms and conditions that apply when you access and use thedrakelawfirm.com.",
+          "breadcrumb": {
+            "@id": "https://thedrakelawfirm.com/terms-of-use/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://thedrakelawfirm.com/terms-of-use/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://thedrakelawfirm.com/terms-of-use/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://thedrakelawfirm.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Terms Of Use"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://thedrakelawfirm.com/#website",
+          "url": "https://thedrakelawfirm.com/",
+          "name": "The Drake Law Firm, PC",
+          "description": "Divorce and Family Law Attorneys",
+          "publisher": {
+            "@id": "https://thedrakelawfirm.com/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://thedrakelawfirm.com/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://thedrakelawfirm.com/#organization",
+          "name": "The Drake Law Firm, PC",
+          "url": "https://thedrakelawfirm.com/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://thedrakelawfirm.com/#/schema/logo/image/",
+            "url": "https://thedrakelawfirm.com/wp-content/uploads/2021/10/logo_drake_law.png",
+            "contentUrl": "https://thedrakelawfirm.com/wp-content/uploads/2021/10/logo_drake_law.png",
+            "width": 324,
+            "height": 280,
+            "caption": "The Drake Law Firm, PC"
+          },
+          "image": {
+            "@id": "https://thedrakelawfirm.com/#/schema/logo/image/"
+          }
+        }
+      ]
+    }
+  }
+}

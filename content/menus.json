@@ -1,0 +1,177 @@
+{
+  "source": "https://thedrakelawfirm.com/",
+  "main": [
+    {
+      "label": "Family Law",
+      "url": "",
+      "children": [
+        {
+          "label": "Divorce",
+          "url": "https://thedrakelawfirm.com/colorado/divorce/",
+          "children": []
+        },
+        {
+          "label": "Child Custody",
+          "url": "https://thedrakelawfirm.com/colorado/child-custody/",
+          "children": []
+        },
+        {
+          "label": "Child Support",
+          "url": "https://thedrakelawfirm.com/colorado/child-support/",
+          "children": []
+        },
+        {
+          "label": "Alimony",
+          "url": "https://thedrakelawfirm.com/colorado/alimony/",
+          "children": []
+        },
+        {
+          "label": "Property Division",
+          "url": "https://thedrakelawfirm.com/colorado/property-division/",
+          "children": []
+        },
+        {
+          "label": "Paternity",
+          "url": "https://thedrakelawfirm.com/colorado/paternity/",
+          "children": []
+        },
+        {
+          "label": "Adoption",
+          "url": "https://thedrakelawfirm.com/colorado/adoption/",
+          "children": []
+        },
+        {
+          "label": "Prenuptial & Postnuptial Agreements",
+          "url": "https://thedrakelawfirm.com/colorado/prenup-postnup/",
+          "children": []
+        },
+        {
+          "label": "Guardianship",
+          "url": "https://thedrakelawfirm.com/colorado/guardianship/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Other Practice Areas",
+      "url": "",
+      "children": [
+        {
+          "label": "Real Estate Law",
+          "url": "https://thedrakelawfirm.com/real-estate-law/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Attorneys",
+      "url": "https://thedrakelawfirm.com/colorado/attorneys/",
+      "children": [
+        {
+          "label": "Marie Drake",
+          "url": "https://thedrakelawfirm.com/colorado/attorneys/marie-drake/",
+          "children": []
+        },
+        {
+          "label": "Madeline LeGrange",
+          "url": "https://thedrakelawfirm.com/colorado/attorneys/madeline-legrange/",
+          "children": []
+        },
+        {
+          "label": "More Team Members",
+          "url": "https://thedrakelawfirm.com/colorado/attorneys/#staff",
+          "children": []
+        },
+        {
+          "label": "Careers",
+          "url": "https://thedrakelawfirm.com/careers/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Locations",
+      "url": "https://thedrakelawfirm.com/colorado/locations/",
+      "children": [
+        {
+          "label": "Lakewood",
+          "url": "https://thedrakelawfirm.com/colorado/locations/lakewood/",
+          "children": []
+        },
+        {
+          "label": "Golden",
+          "url": "https://thedrakelawfirm.com/colorado/locations/golden/",
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Tools & Resources",
+      "url": "",
+      "children": [
+        {
+          "label": "No Drama Divorce",
+          "url": "https://thedrakelawfirm.com/no-drama-divorce-2/",
+          "children": []
+        },
+        {
+          "label": "Video Library",
+          "url": "https://thedrakelawfirm.com/video-faqs/",
+          "children": []
+        },
+        {
+          "label": "FAQs on Family Law",
+          "url": "https://thedrakelawfirm.com/faqs/",
+          "children": []
+        },
+        {
+          "label": "Blog",
+          "url": "https://thedrakelawfirm.com/blog/",
+          "children": []
+        },
+        {
+          "label": "News",
+          "url": "https://thedrakelawfirm.com/news/",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "label": "Home",
+      "url": "https://thedrakelawfirm.com/",
+      "children": []
+    },
+    {
+      "label": "Attorneys & Legal Team",
+      "url": "https://thedrakelawfirm.com/colorado/attorneys/",
+      "children": []
+    },
+    {
+      "label": "Privacy Policy",
+      "url": "https://thedrakelawfirm.com/privacy-policy/",
+      "children": []
+    },
+    {
+      "label": "Terms Of Use",
+      "url": "https://thedrakelawfirm.com/terms-of-use/",
+      "children": []
+    },
+    {
+      "label": "Contact Us",
+      "url": "https://thedrakelawfirm.com/contact-us/",
+      "children": []
+    },
+    {
+      "label": "Sitemap",
+      "url": "https://thedrakelawfirm.com/sitemap_index.xml",
+      "children": []
+    },
+    {
+      "label": "Careers",
+      "url": "https://thedrakelawfirm.com/careers/",
+      "children": []
+    }
+  ]
+}

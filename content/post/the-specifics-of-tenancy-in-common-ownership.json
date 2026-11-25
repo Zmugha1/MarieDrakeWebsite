@@ -1,0 +1,214 @@
+{
+  "id": 767,
+  "slug": "the-specifics-of-tenancy-in-common-ownership",
+  "link": "https://thedrakelawfirm.com/the-specifics-of-tenancy-in-common-ownership/",
+  "path": "/the-specifics-of-tenancy-in-common-ownership/",
+  "title": "The Specifics of Tenancy-in-Common Ownership",
+  "date": "2021-07-07T10:06:44",
+  "modified": "2026-09-09T20:07:29",
+  "status": "publish",
+  "parent": 0,
+  "menu_order": 0,
+  "template": "",
+  "categories": [
+    {
+      "id": 9,
+      "name": "Blog",
+      "slug": "blog"
+    }
+  ],
+  "tags": [],
+  "featured_image_url": "https://thedrakelawfirm.com/wp-content/uploads/2021/10/4.png",
+  "content": {
+    "rendered": "<p>The most familiar arrangement is for real estate to be owned entirely by a single individual or married couple. When most people think about how real estate is held, this is the form that they think about. However, what many do not realize is that there is a range of possible ownership arrangements. Real estate can be owned and held jointly with multiple co-owners simultaneously. People may create such joint ownership situations for various reasons. One of the most common reasons is that multiple persons wish to co-own a large property used for business purposes, such as a multi-unit apartment complex.</p>\n<p>In this post, we will discuss in detail one type of shared ownership: tenancy-in-common, or TIC.</p>\n<h2>Basic Overview: Concurrent Shared Ownership</h2>\n<p>Tenancy-in-ownership refers to a form of co-ownership in which multiple owners share an undivided interest in a piece of real estate. What this means is that the multiple owners share ownership of the property equally, and have a right to possess the entire property, although owners may have different percentages of ownership. For example, suppose an apartment complex is owned by 5 people in a TIC arrangement. 1 owner has a 50% ownership percentage, and the other 4 have 12.5% ownership percentages. All the owners have an equal right to possess the property, but 1 of the owners has a much larger ownership percentage.</p>\n<p>Different states and different jurisdictions can have their own particular rules pertaining to TICs. In most jurisdictions, the maximum number of co-owners in a TIC is limited to 35. If more co-owners are needed or wanted, then a different form is required (such as a Delaware Statutory Trust).</p>\n<h2>Debts, Liabilities &amp; Selling Ownership Interests</h2>\n<p>Another important feature of TICs pertains to responsibility for debts and liabilities. TICs do not technically divide a piece of real property at the county or jurisdictional level. In other words, even though a TIC involves multiple owners, this doesn&#8217;t mean that the real estate itself is divided into distinct parcels. For this reason, TIC co-owners typically face joint-and-several liability for debts and liabilities. Consider the issue of property taxes. TICs will usually receive just a single tax bill for their real estate. The co-owners themselves are responsible for divvying up the tax bill according to their respective ownership percentages.</p>\n<p>Yet another key feature of TICs is the ability of co-owners to independently sell and transfer their ownership interests. In a TIC, co-owners can sell their ownership interest freely without collapsing the entire ownership arrangement. What&#8217;s more, TIC interests can be transferred intergenerationally, by will, which is unlike the situation with other ownership arrangements, such as joint tenancy.</p>\n<h2>Section 1031 Context</h2>\n<p>Another area in which TICs have significance is IRC Section 1031 exchanges. When a person owns a percentage of real estate in a TIC, that person technically owns real property from a legal perspective. This is different from a situation in which multiple partners co-own real property in a partnership; in this latter situation, the individual partners own shares of the company itself, rather than the real property. Because TIC interests are regarded as interests in real property, they can sell or purchase in a 1031 exchange.</p>\n<p>Consider a scenario: a group of 3 people owns 1/3<sup>rd</sup> shares in a TIC. When this group sells the underlying real estate, 2 of the co-owners take cash, but one of the co-owners rolls his or her proceeds in a 1031 exchange and acquires more real estate. This is totally permissible under the existing regulations because the law regards an interest in a TIC as an interest in real estate. This means that the “like-kind” requirement of Section 1031 has been satisfied.</p>\n<h2>Contact the Drake Law Firm to Learn More</h2>\n<p>There is more to know about TICs, this is just a general introduction. If you would like to learn more, or if you have an interest in creating a TIC agreement, contact the <a href=\"https://thedrakelawfirm.com\">Drake Law Firm</a> today by calling <a href=\"tel:303-261-8111\">(303) 261-8111</a>.</p>\n"
+  },
+  "excerpt": {
+    "rendered": "<p>The most familiar arrangement is for real estate to be owned entirely by a single individual or married couple. When most people think about how real estate is held, this is the form that they think about. However, what many do not realize is that there is a range of possible ownership arrangements. Real estate [&hellip;]</p>\n"
+  },
+  "yoast_head_json": {
+    "title": "Tenancy-in-Common Ownership | Drake Law Firm",
+    "description": "Learn how tenancy-in-common ownership works, including ownership interests, liabilities, selling shares, and 1031 exchanges.",
+    "canonical": "https://thedrakelawfirm.com/the-specifics-of-tenancy-in-common-ownership/",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "og_locale": "en_US",
+    "og_type": "article",
+    "og_title": "Tenancy-in-Common Ownership | Drake Law Firm",
+    "og_description": "Learn how tenancy-in-common ownership works, including ownership interests, liabilities, selling shares, and 1031 exchanges.",
+    "og_url": "https://thedrakelawfirm.com/the-specifics-of-tenancy-in-common-ownership/",
+    "og_site_name": "The Drake Law Firm, PC",
+    "og_image": [
+      {
+        "width": 940,
+        "height": 788,
+        "url": "https://thedrakelawfirm.com/wp-content/uploads/2021/10/4.png",
+        "type": "image/png"
+      }
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://thedrakelawfirm.com/the-specifics-of-tenancy-in-common-ownership/#article",
+          "isPartOf": {
+            "@id": "https://thedrakelawfirm.com/the-specifics-of-tenancy-in-common-ownership/"
+          },
+          "author": {
+            "name": "Marie Drake",
+            "@id": "https://thedrakelawfirm.com/#/schema/person/c05089d6ce0ff0bdb100bff81aa59ab7"
+          },
+          "headline": "The Specifics of Tenancy-in-Common Ownership",
+          "datePublished": "2021-07-07T10:06:44+00:00",
+          "dateModified": "2026-09-09T20:07:29+00:00",
+          "mainEntityOfPage": {
+            "@id": "https://thedrakelawfirm.com/the-specifics-of-tenancy-in-common-ownership/"
+          },
+          "wordCount": 651,
+          "commentCount": 0,
+          "publisher": {
+            "@id": "https://thedrakelawfirm.com/#organization"
+          },
+          "image": {
+            "@id": "https://thedrakelawfirm.com/the-specifics-of-tenancy-in-common-ownership/#primaryimage"
+          },
+          "thumbnailUrl": "https://thedrakelawfirm.com/wp-content/uploads/2021/10/4.png",
+          "articleSection": [
+            "Blog"
+          ],
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "CommentAction",
+              "name": "Comment",
+              "target": [
+                "https://thedrakelawfirm.com/the-specifics-of-tenancy-in-common-ownership/#respond"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://thedrakelawfirm.com/the-specifics-of-tenancy-in-common-ownership/",
+          "url": "https://thedrakelawfirm.com/the-specifics-of-tenancy-in-common-ownership/",
+          "name": "Tenancy-in-Common Ownership | Drake Law Firm",
+          "isPartOf": {
+            "@id": "https://thedrakelawfirm.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://thedrakelawfirm.com/the-specifics-of-tenancy-in-common-ownership/#primaryimage"
+          },
+          "image": {
+            "@id": "https://thedrakelawfirm.com/the-specifics-of-tenancy-in-common-ownership/#primaryimage"
+          },
+          "thumbnailUrl": "https://thedrakelawfirm.com/wp-content/uploads/2021/10/4.png",
+          "datePublished": "2021-07-07T10:06:44+00:00",
+          "dateModified": "2026-09-09T20:07:29+00:00",
+          "description": "Learn how tenancy-in-common ownership works, including ownership interests, liabilities, selling shares, and 1031 exchanges.",
+          "breadcrumb": {
+            "@id": "https://thedrakelawfirm.com/the-specifics-of-tenancy-in-common-ownership/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://thedrakelawfirm.com/the-specifics-of-tenancy-in-common-ownership/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en-US",
+          "@id": "https://thedrakelawfirm.com/the-specifics-of-tenancy-in-common-ownership/#primaryimage",
+          "url": "https://thedrakelawfirm.com/wp-content/uploads/2021/10/4.png",
+          "contentUrl": "https://thedrakelawfirm.com/wp-content/uploads/2021/10/4.png",
+          "width": 940,
+          "height": 788,
+          "caption": "In this post, we will discuss in detail one type of shared ownership: tenancy-in-common, or TIC. For more info contact The Drake Law Firm, PC at (303) 261-8111."
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://thedrakelawfirm.com/the-specifics-of-tenancy-in-common-ownership/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://thedrakelawfirm.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "The Specifics of Tenancy-in-Common Ownership"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://thedrakelawfirm.com/#website",
+          "url": "https://thedrakelawfirm.com/",
+          "name": "The Drake Law Firm, PC",
+          "description": "Divorce and Family Law Attorneys",
+          "publisher": {
+            "@id": "https://thedrakelawfirm.com/#organization"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://thedrakelawfirm.com/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://thedrakelawfirm.com/#organization",
+          "name": "The Drake Law Firm, PC",
+          "url": "https://thedrakelawfirm.com/",
+          "logo": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://thedrakelawfirm.com/#/schema/logo/image/",
+            "url": "https://thedrakelawfirm.com/wp-content/uploads/2021/10/logo_drake_law.png",
+            "contentUrl": "https://thedrakelawfirm.com/wp-content/uploads/2021/10/logo_drake_law.png",
+            "width": 324,
+            "height": 280,
+            "caption": "The Drake Law Firm, PC"
+          },
+          "image": {
+            "@id": "https://thedrakelawfirm.com/#/schema/logo/image/"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://thedrakelawfirm.com/#/schema/person/c05089d6ce0ff0bdb100bff81aa59ab7",
+          "name": "Marie Drake",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://secure.gravatar.com/avatar/2ea989f020904e9d8ac212a073c359c109acc9cbcf6ac22ff39ad49a7290cb2a?s=96&d=mm&r=g",
+            "url": "https://secure.gravatar.com/avatar/2ea989f020904e9d8ac212a073c359c109acc9cbcf6ac22ff39ad49a7290cb2a?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/2ea989f020904e9d8ac212a073c359c109acc9cbcf6ac22ff39ad49a7290cb2a?s=96&d=mm&r=g",
+            "caption": "Marie Drake"
+          },
+          "url": "https://thedrakelawfirm.com/author/marie-drake/"
+        }
+      ]
+    }
+  }
+}

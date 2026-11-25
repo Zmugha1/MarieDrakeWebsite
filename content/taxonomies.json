@@ -1,0 +1,412 @@
+{
+  "categories": [
+    {
+      "id": 9,
+      "name": "Blog",
+      "slug": "blog",
+      "link": "https://thedrakelawfirm.com/category/blog/",
+      "count": 229
+    },
+    {
+      "id": 28,
+      "name": "Divorce",
+      "slug": "divorce",
+      "link": "https://thedrakelawfirm.com/category/divorce/",
+      "count": 6
+    },
+    {
+      "id": 8,
+      "name": "News",
+      "slug": "news",
+      "link": "https://thedrakelawfirm.com/category/news/",
+      "count": 11
+    },
+    {
+      "id": 1,
+      "name": "Uncategorized",
+      "slug": "uncategorized",
+      "link": "https://thedrakelawfirm.com/category/uncategorized/",
+      "count": 2
+    },
+    {
+      "id": 29,
+      "name": "Video Gallery",
+      "slug": "video-gallery",
+      "link": "https://thedrakelawfirm.com/category/video-gallery/",
+      "count": 48
+    }
+  ],
+  "tags": [
+    {
+      "id": 53,
+      "name": "3 prenup",
+      "slug": "3-prenup",
+      "link": "https://thedrakelawfirm.com/tag/3-prenup/",
+      "count": 1
+    },
+    {
+      "id": 47,
+      "name": "Accidental Common Law Marriage",
+      "slug": "accidental-common-law-marriage",
+      "link": "https://thedrakelawfirm.com/tag/accidental-common-law-marriage/",
+      "count": 0
+    },
+    {
+      "id": 57,
+      "name": "ADA lawsuit",
+      "slug": "ada-lawsuit",
+      "link": "https://thedrakelawfirm.com/tag/ada-lawsuit/",
+      "count": 1
+    },
+    {
+      "id": 55,
+      "name": "alimony",
+      "slug": "alimony",
+      "link": "https://thedrakelawfirm.com/tag/alimony/",
+      "count": 1
+    },
+    {
+      "id": 26,
+      "name": "Alimony and Spousal Support",
+      "slug": "alimony-and-spousal-support",
+      "link": "https://thedrakelawfirm.com/tag/alimony-and-spousal-support/",
+      "count": 1
+    },
+    {
+      "id": 64,
+      "name": "Business",
+      "slug": "business",
+      "link": "https://thedrakelawfirm.com/tag/business/",
+      "count": 1
+    },
+    {
+      "id": 44,
+      "name": "CFI",
+      "slug": "cfi",
+      "link": "https://thedrakelawfirm.com/tag/cfi/",
+      "count": 1
+    },
+    {
+      "id": 22,
+      "name": "Child Custody",
+      "slug": "child-custody",
+      "link": "https://thedrakelawfirm.com/tag/child-custody/",
+      "count": 5
+    },
+    {
+      "id": 25,
+      "name": "Child Support",
+      "slug": "child-support",
+      "link": "https://thedrakelawfirm.com/tag/child-support/",
+      "count": 5
+    },
+    {
+      "id": 49,
+      "name": "Child Support Funds",
+      "slug": "child-support-funds",
+      "link": "https://thedrakelawfirm.com/tag/child-support-funds/",
+      "count": 1
+    },
+    {
+      "id": 62,
+      "name": "Civil Litigation",
+      "slug": "civil-litigation",
+      "link": "https://thedrakelawfirm.com/tag/civil-litigation/",
+      "count": 1
+    },
+    {
+      "id": 51,
+      "name": "Co-Parenting",
+      "slug": "co-parenting",
+      "link": "https://thedrakelawfirm.com/tag/co-parenting/",
+      "count": 1
+    },
+    {
+      "id": 190,
+      "name": "Colorado Divorce",
+      "slug": "colorado-divorce",
+      "link": "https://thedrakelawfirm.com/tag/colorado-divorce/",
+      "count": 1
+    },
+    {
+      "id": 198,
+      "name": "Colorado Divorce Attorney",
+      "slug": "colorado-divorce-attorney",
+      "link": "https://thedrakelawfirm.com/tag/colorado-divorce-attorney/",
+      "count": 1
+    },
+    {
+      "id": 192,
+      "name": "Colorado Family Law",
+      "slug": "colorado-family-law",
+      "link": "https://thedrakelawfirm.com/tag/colorado-family-law/",
+      "count": 4
+    },
+    {
+      "id": 194,
+      "name": "Colorado Law",
+      "slug": "colorado-law",
+      "link": "https://thedrakelawfirm.com/tag/colorado-law/",
+      "count": 1
+    },
+    {
+      "id": 46,
+      "name": "Common Law Marriage",
+      "slug": "common-law-marriage",
+      "link": "https://thedrakelawfirm.com/tag/common-law-marriage/",
+      "count": 2
+    },
+    {
+      "id": 41,
+      "name": "Common-Law",
+      "slug": "common-law",
+      "link": "https://thedrakelawfirm.com/tag/common-law/",
+      "count": 1
+    },
+    {
+      "id": 21,
+      "name": "Divorce",
+      "slug": "divorce",
+      "link": "https://thedrakelawfirm.com/tag/divorce/",
+      "count": 25
+    },
+    {
+      "id": 31,
+      "name": "Divorce Case",
+      "slug": "divorce-case",
+      "link": "https://thedrakelawfirm.com/tag/divorce-case/",
+      "count": 0
+    },
+    {
+      "id": 33,
+      "name": "Divorce Expenses",
+      "slug": "divorce-expenses",
+      "link": "https://thedrakelawfirm.com/tag/divorce-expenses/",
+      "count": 0
+    },
+    {
+      "id": 34,
+      "name": "Divorced",
+      "slug": "divorced",
+      "link": "https://thedrakelawfirm.com/tag/divorced/",
+      "count": 1
+    },
+    {
+      "id": 36,
+      "name": "Echoing",
+      "slug": "echoing",
+      "link": "https://thedrakelawfirm.com/tag/echoing/",
+      "count": 1
+    },
+    {
+      "id": 23,
+      "name": "Family Law",
+      "slug": "family-law",
+      "link": "https://thedrakelawfirm.com/tag/family-law/",
+      "count": 7
+    },
+    {
+      "id": 197,
+      "name": "Family Law Attorney",
+      "slug": "family-law-attorney",
+      "link": "https://thedrakelawfirm.com/tag/family-law-attorney/",
+      "count": 1
+    },
+    {
+      "id": 191,
+      "name": "Family Law Divorce",
+      "slug": "family-law-divorce",
+      "link": "https://thedrakelawfirm.com/tag/family-law-divorce/",
+      "count": 1
+    },
+    {
+      "id": 40,
+      "name": "Family Pet",
+      "slug": "family-pet",
+      "link": "https://thedrakelawfirm.com/tag/family-pet/",
+      "count": 0
+    },
+    {
+      "id": 54,
+      "name": "grandchildren",
+      "slug": "grandchildren",
+      "link": "https://thedrakelawfirm.com/tag/grandchildren/",
+      "count": 0
+    },
+    {
+      "id": 59,
+      "name": "Hidding Assets",
+      "slug": "hidding-assets",
+      "link": "https://thedrakelawfirm.com/tag/hidding-assets/",
+      "count": 1
+    },
+    {
+      "id": 58,
+      "name": "jeopardizing",
+      "slug": "jeopardizing",
+      "link": "https://thedrakelawfirm.com/tag/jeopardizing/",
+      "count": 0
+    },
+    {
+      "id": 50,
+      "name": "Legal Separation",
+      "slug": "legal-separation",
+      "link": "https://thedrakelawfirm.com/tag/legal-separation/",
+      "count": 1
+    },
+    {
+      "id": 195,
+      "name": "Legal Updates",
+      "slug": "legal-updates",
+      "link": "https://thedrakelawfirm.com/tag/legal-updates/",
+      "count": 1
+    },
+    {
+      "id": 79,
+      "name": "Managed URL by Permalink Manager Lite",
+      "slug": "managed-url-by-permalink-manager-lite",
+      "link": "https://thedrakelawfirm.com/tag/managed-url-by-permalink-manager-lite/",
+      "count": 2
+    },
+    {
+      "id": 32,
+      "name": "Marriage",
+      "slug": "marriage",
+      "link": "https://thedrakelawfirm.com/tag/marriage/",
+      "count": 1
+    },
+    {
+      "id": 43,
+      "name": "Mediation",
+      "slug": "mediation",
+      "link": "https://thedrakelawfirm.com/tag/mediation/",
+      "count": 1
+    },
+    {
+      "id": 52,
+      "name": "misconceptions",
+      "slug": "misconceptions",
+      "link": "https://thedrakelawfirm.com/tag/misconceptions/",
+      "count": 1
+    },
+    {
+      "id": 37,
+      "name": "New PTO Law?",
+      "slug": "new-pto-law",
+      "link": "https://thedrakelawfirm.com/tag/new-pto-law/",
+      "count": 0
+    },
+    {
+      "id": 63,
+      "name": "Paid Time Off for Employees",
+      "slug": "paid-time-off-for-employees",
+      "link": "https://thedrakelawfirm.com/tag/paid-time-off-for-employees/",
+      "count": 1
+    },
+    {
+      "id": 24,
+      "name": "Parental Alienation",
+      "slug": "parental-alienation",
+      "link": "https://thedrakelawfirm.com/tag/parental-alienation/",
+      "count": 1
+    },
+    {
+      "id": 66,
+      "name": "Parenting",
+      "slug": "parenting",
+      "link": "https://thedrakelawfirm.com/tag/parenting/",
+      "count": 3
+    },
+    {
+      "id": 27,
+      "name": "Paternity",
+      "slug": "paternity",
+      "link": "https://thedrakelawfirm.com/tag/paternity/",
+      "count": 1
+    },
+    {
+      "id": 38,
+      "name": "Payments In Cash",
+      "slug": "payments-in-cash",
+      "link": "https://thedrakelawfirm.com/tag/payments-in-cash/",
+      "count": 1
+    },
+    {
+      "id": 30,
+      "name": "postnuptial agreement",
+      "slug": "postnuptial-agreement",
+      "link": "https://thedrakelawfirm.com/tag/postnuptial-agreement/",
+      "count": 1
+    },
+    {
+      "id": 45,
+      "name": "PRE",
+      "slug": "pre",
+      "link": "https://thedrakelawfirm.com/tag/pre/",
+      "count": 1
+    },
+    {
+      "id": 35,
+      "name": "Prenup",
+      "slug": "prenup",
+      "link": "https://thedrakelawfirm.com/tag/prenup/",
+      "count": 1
+    },
+    {
+      "id": 60,
+      "name": "Prenup Agreement",
+      "slug": "prenup-agreement",
+      "link": "https://thedrakelawfirm.com/tag/prenup-agreement/",
+      "count": 1
+    },
+    {
+      "id": 65,
+      "name": "Prenuptial Agreements",
+      "slug": "prenuptial-agreements",
+      "link": "https://thedrakelawfirm.com/tag/prenuptial-agreements/",
+      "count": 2
+    },
+    {
+      "id": 61,
+      "name": "Prevented",
+      "slug": "prevented",
+      "link": "https://thedrakelawfirm.com/tag/prevented/",
+      "count": 1
+    },
+    {
+      "id": 196,
+      "name": "Property Division",
+      "slug": "property-division",
+      "link": "https://thedrakelawfirm.com/tag/property-division/",
+      "count": 1
+    },
+    {
+      "id": 42,
+      "name": "Snow in May",
+      "slug": "snow-in-may",
+      "link": "https://thedrakelawfirm.com/tag/snow-in-may/",
+      "count": 1
+    },
+    {
+      "id": 193,
+      "name": "Spousal Maintenance",
+      "slug": "spousal-maintenance",
+      "link": "https://thedrakelawfirm.com/tag/spousal-maintenance/",
+      "count": 1
+    },
+    {
+      "id": 48,
+      "name": "Summer Vacation",
+      "slug": "summer-vacation",
+      "link": "https://thedrakelawfirm.com/tag/summer-vacation/",
+      "count": 1
+    },
+    {
+      "id": 39,
+      "name": "Visitation Order",
+      "slug": "visitation-order",
+      "link": "https://thedrakelawfirm.com/tag/visitation-order/",
+      "count": 1
+    }
+  ]
+}
