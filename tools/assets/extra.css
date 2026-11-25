@@ -1,0 +1,13 @@
+/* Replaces what the carousel and lightbox scripts used to do */
+.elementor-widget-media-carousel .elementor-main-swiper{overflow:hidden;position:relative}
+.elementor-widget-media-carousel .swiper-wrapper{display:flex;gap:10px;overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;scrollbar-width:none}
+.elementor-widget-media-carousel .swiper-wrapper::-webkit-scrollbar{display:none}
+.elementor-widget-media-carousel .swiper-slide{flex:0 0 calc((100% - 20px)/3);scroll-snap-align:start;height:auto}
+@media (max-width:767px){.elementor-widget-media-carousel .swiper-slide{flex-basis:100%}}
+.elementor-widget-media-carousel .elementor-carousel-image{aspect-ratio:16/9;height:auto;background-size:cover;background-position:center}
+.elementor-widget-testimonial-carousel .swiper-pagination{position:relative;text-align:center;margin-top:20px}
+.elementor-widget-testimonial-carousel .swiper-pagination-bullet{display:inline-block;width:6px;height:6px;margin:0 4px;border-radius:50%;background:#000;opacity:.2;cursor:pointer}
+.elementor-widget-testimonial-carousel .swiper-pagination-bullet-active{opacity:1}
+.drake-lightbox{position:fixed;inset:0;z-index:99999;background:rgba(0,0,0,.85);display:flex;align-items:center;justify-content:center}
+.drake-lightbox iframe{width:min(90vw,1100px);aspect-ratio:16/9;height:auto;border:0}
+.drake-lightbox button{position:absolute;top:16px;right:20px;background:none;border:0;color:#fff;font-size:36px;line-height:1;cursor:pointer}

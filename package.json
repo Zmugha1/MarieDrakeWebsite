@@ -1,0 +1,22 @@
+{
+  "name": "mariedrakewebsite",
+  "version": "1.0.0",
+  "description": "Static site for The Drake Law Firm",
+  "scripts": {
+    "build": "node tools/build.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zmugha1/mariedrakewebsite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zmugha1/mariedrakewebsite/issues"
+  },
+  "homepage": "https://github.com/Zmugha1/mariedrakewebsite#readme",
+  "devDependencies": {
+    "cheerio": "^1.0.0",
+    "clean-css": "^5.3.3",
+    "purgecss": "^6.0.0"
+  },
+  "private": true
+}

@@ -1,0 +1,11 @@
+# The site is prebuilt into site/ by `node tools/build.mjs`. Netlify only serves it.
+[build]
+  publish = "site"
+  command = ""
+
+# Staging: search engines must not index this site. Remove at launch, with the
+# production build (SITE_MODE=production node tools/build.mjs).
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "noindex, nofollow"
