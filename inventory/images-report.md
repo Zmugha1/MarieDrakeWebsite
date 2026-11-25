@@ -1,10 +1,10 @@
 # Image copy
 
-Paths are unique `/wp-content/uploads/` references from `src`, `srcset`, `href`, `poster`, inline `style` `url()`, `<style>` blocks, and `site/assets/site.css`.
+Paths are unique `/wp-content/uploads/` references from `src`, `srcset`, `href`, `poster`, inline `style` `url()`, `<style>` blocks, meta tags and structured data, and `site/assets/site.css`.
 
-- Paths found: 395
-- Files copied: 395
-- Total size copied: 142.34 MB (149253365 bytes)
+- Paths found: 468
+- Files copied: 468
+- Total size copied: 161.00 MB (168819317 bytes)
 
 ## 20 largest files
 
@@ -24,10 +24,10 @@ Paths are unique `/wp-content/uploads/` references from `src`, `srcset`, `href`,
 - /wp-content/uploads/2025/06/Divorce-for-Stay-at-Home-Moms-in-Lakewood-CO-What-You-Need-to-Know.png (1.29 MB, 1349615 bytes)
 - /wp-content/uploads/2024/02/The-Impact-of-Divorce-on-Grandparent-Rights.png (1.26 MB, 1323835 bytes)
 - /wp-content/uploads/2023/03/thomas-morse-cuKKa0vWZSY-unsplash-scaled.jpg (1.25 MB, 1311052 bytes)
+- /wp-content/uploads/2026/06/ChatGPT-Image-3-jun-2026-02_50_57-p.m-1024x768.png (1.22 MB, 1274595 bytes)
 - /wp-content/uploads/2024/05/When-Can-Child-Support-Payments-Be-Modified-.png (1.21 MB, 1269928 bytes)
 - /wp-content/uploads/2023/10/Is-a-Collaborative-Divorce-Right-for-You-1.png (1.20 MB, 1253533 bytes)
 - /wp-content/uploads/2023/09/Screenshot-2023-09-22-at-1.31.05-PM.png (1.19 MB, 1249822 bytes)
-- /wp-content/uploads/2023/11/Co-Parenting-During-the-Holidays.png (1.19 MB, 1246786 bytes)
 
 ## Paths not found in the backup
 
