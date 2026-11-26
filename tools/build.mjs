@@ -60,7 +60,7 @@ function cleanDoc($, styles) {
   });
   $('.pojo-a11y-toolbar, #pojo-a11y-toolbar, .pojo-skip-link').remove();
   $('[class]').each((_, el) => {
-    const c = $(el).attr('class').split(/\s+/).filter((x) => x && x !== 'has_eae_slider' && x !== 'ff-form-loading');
+    const c = $(el).attr('class').split(/\s+/).filter((x) => x && x !== 'has_eae_slider' && x !== 'ff-form-loading' && !x.startsWith('font-claude'));
     $(el).attr('class', c.join(' '));
   });
   $('*').each((_, el) => {
